@@ -8,8 +8,8 @@ github_link: https://github.com/zhoudw-zdw
 # linkedin:  
 avatar: ./file/njy.jpg
 # google_analytics:  
-favicon: ./assets/img/favicon.ico
-favicon_dark: ./assets/img/favicon.ico
+# favicon: ./assets/img/favicon.ico
+# favicon_dark: ./assets/img/favicon.ico
 description: Da-Wei Zhou - Homepage
 canonical: www.lamda.nju.edu.cn/zhoudw
 remote_theme: yaoyao-liu/minimal-light
