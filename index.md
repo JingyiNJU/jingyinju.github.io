@@ -156,9 +156,6 @@ Conference on Artificial Intelligence. <strong><i style="color:#1e90ff">IJCAI 20
 [<a href="./file/CVPR22/CVPR22_project.html" target="_blank">Project Page</a>]
 [<a href="https://github.com/zhoudw-zdw/CVPR22-Fact" target="_blank">Code</a>]
 <br>
-<!--  <img src="https://img.shields.io/github/stars/zhoudw-zdw/CVPR22-Fact?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12"/> -->
- <!-- <img src="https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=f6f6f6&color=9cf&style=flat&label=Citations&logo=Google%20Scholar&query=publications%5B2%5D.citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DkMNaR-YAAAAJ"> -->
- <img src="https://img.shields.io/badge/dynamic/json?labelColor=f6f6f6&color=9cf&style=flat&label=Citations&logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhoudw7%2Fzhoudw7.github.io@google-scholar-stats%2Fgs_data.json&query=$[%27publications%27][%27kMNaR-YAAAAJ:hqOjcs7Dif8C%27][%27num_citations%27]">
   </div>
 </div>
 </li>
