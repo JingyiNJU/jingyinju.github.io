@@ -4,7 +4,7 @@ layout: homepage
 
 ## Short Bio
 
-I am an Associate Researcher (2024-) in the [School of Artificial Intelligence](https://ai.nju.edu.cn/main.htm) at [Nanjing University](http://www.nju.edu.cn/). I am a member of [LAMDA Group](http://www.lamda.nju.edu.cn/CH.MainPage.ashx). 
+I am an Assistant Researcher (2024-) in the [School of Artificial Intelligence](https://ai.nju.edu.cn/main.htm) at [Nanjing University](http://www.nju.edu.cn/). I am a member of [LAMDA Group](http://www.lamda.nju.edu.cn/CH.MainPage.ashx). 
 Previously, I received my Ph.D. (2018-2024) from [Nanjing University](http://www.nju.edu.cn/), [LAMDA Group](http://www.lamda.nju.edu.cn/CH.MainPage.ashx), advised by  Prof. [De-Chuan Zhan](http://www.lamda.nju.edu.cn/zhandc/) and Prof. [Han-Jia Ye](http://www.lamda.nju.edu.cn/yehj/). 
 I was fortunate to visit [MMLab@NTU](https://www.mmlab-ntu.com/) (2022-2023), working closely with Prof. [Ziwei Liu](https://liuziwei7.github.io/). 
 
@@ -63,7 +63,7 @@ For more details, please view the <a href="./publication.html">full publication 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="file/teaser/ease.png" class="teaser img-fluid z-depth-1">
+    <img src="file/teaser/MoirePose.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPR</abbr>
   </div>
   <div id="memo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
