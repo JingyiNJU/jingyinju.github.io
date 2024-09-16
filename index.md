@@ -101,43 +101,6 @@ Conference on Artificial Intelligence. <strong><i style="color:#1e90ff">IJCAI 20
 </div>
 </li>
 
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="file/teaser/MRFA.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ICML</abbr> 
-  </div>
-  <div id="proof" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-  <div class="title">Multi-layer Rehearsal Feature Augmentation for Class-Incremental Learning</div>
-  <div class="author">Bowen Zheng, <strong>Da-Wei Zhou</strong><sup><i class="fa-regular fa-envelope fa-xs"></i></sup>,  Han-Jia Ye, De-Chuan Zhan</div>
-   <div class="periodical"><em>The 41st International Conference on Machine Learning. <strong><i style="color:#1e90ff">ICML 2024</i></strong>. </em> 
-  </div>
-[<a href="https://openreview.net/forum?id=aksdU1KOpT" target="_blank">Paper</a>]
-[<a href="https://github.com/bwnzheng/MRFA_ICML2024">Code</a>]
-  </div>
-</div>
-</li>
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="file/teaser/memo.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ICLR Spotlight</abbr>
-  </div>
-  <div id="memo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-  <div class="title">A Model or 603 Exemplars: Towards
-Memory-Efficient Class-Incremental Learning</div>
-  <div class="author"><strong>Da-Wei Zhou</strong>, Qi-Wei Wang, Han-Jia Ye, De-Chuan Zhan</div>
-  <div class="periodical"><em>The 11th International Conference on Learning Representations. <strong><i style="color:#1e90ff">ICLR 2023</i></strong>. </em> <strong><i style="color:#e74d3c">Spotlight Presentation</i></strong>
-  </div>
-[<a href="https://openreview.net/forum?id=S07feAlQHgM" target="_blank">Paper</a>] 
-[<a href="https://github.com/wangkiw/ICLR23-MEMO">Code</a>]
-<!-- [<a href="https://iclr.cc/virtual/2023/poster/11837">Video</a>] -->
-<br>
- <img src="https://img.shields.io/badge/dynamic/json?labelColor=f6f6f6&color=9cf&style=flat&label=Citations&logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhoudw7%2Fzhoudw7.github.io@google-scholar-stats%2Fgs_data.json&query=$[%27publications%27][%27kMNaR-YAAAAJ:QIV2ME_5wuYC%27][%27num_citations%27]">
-  </div>
-</div>
-</li>
 
 
 
