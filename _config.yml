@@ -1,0 +1,19 @@
+title: Jingyi Ning
+position: Assistant Researcher
+affiliation: School of Artificial Intelligence, Nanjing University
+email: ningjy (at) smail.nju.edu.cn
+keywords:  
+google_scholar: https://scholar.google.com/citations?user=kMNaR-YAAAAJ
+github_link: https://github.com/zhoudw-zdw
+# linkedin:  
+avatar: ./assets/img/zhoudw.jpg
+# google_analytics:  
+favicon: ./assets/img/favicon.ico
+favicon_dark: ./assets/img/favicon.ico
+description: Da-Wei Zhou - Homepage
+canonical: www.lamda.nju.edu.cn/zhoudw
+remote_theme: yaoyao-liu/minimal-light
+logo: ./file/lamda.jpg
+univlogo: ./file/nju.jpg
+# cv: ./file/cv_zhoudw.pdf
+name_img: ./file/zhoudw.png

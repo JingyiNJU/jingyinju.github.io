@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <!-- <title>{{ site.title }} | {{site.affiliation}}</title> -->
+    <title>{{ site.title }} - Homepage</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description }}">
+    {% if site.keywords %}
+    <meta name="keywords" content="{{ site.keywords }}">
+    {% endif %}
+    {% if site.canonical %}
+    <link rel="canonical" href="{{ site.canonical }}"/>
+    {% endif %}
+
+    <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
+    <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
+    <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
+
+    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
+    <!-- <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous> -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://cdn.jsdelivr.net/gh/eliyantosarage/font-awesome-pro@main/fontawesome-pro-6.5.1-web/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/avatar.css">
+    <link rel="stylesheet" href="./assets/css/pub.css">
+    <link rel="stylesheet" href="./assets/css/scroll.css">
+    <link rel="stylesheet" href="./assets/css/new.css">
+
+  </head>
+  <body>
+
+    <nav class="sticky">
+      <ul>
+        <!-- Use univ logo version. -->
+        <!-- <li><img style="margin-bottom:5pt;margin-top:3pt;margin-left:-40%;" width="120" src="./file/logo.png" class="logo"></li> -->
+        <!-- <li><a href="./index.html" style="font-family: Arial, serif, sans-serif;  color: #f7f7f7;"><ah>Home</ah></a></li>
+        <li><a href="./publication.html" style="font-family: Arial, sans-serif;  color: #f7f7f7;"><ah>Publications</ah></a></li>
+        <li><a href="./service.html" style="font-family: Arial, sans-serif;  color: #f7f7f7;"><ah>Awards and Services</ah></a></li> -->
+
+        <li><img style="margin-bottom:5pt;margin-top:3pt;margin-left:-20%;" width="0" src="" class="logo"></li>
+        <li><b><a href="./index.html" style="font-family: Segoe UI;  color: #fefae0;"><ah>Home</ah></a></b></li>
+        <li><b><a href="./publication.html" style="font-family: Segoe UI;  color: #fefae0;"><ah>Publications</ah></a></b></li>
+        <li><b><a href="./service.html" style="font-family: Segoe UI;  color: #fefae0;"><ah>Services</ah></a></b></li>
+        <!-- <li><b><a href="./team.html" style="font-family: Segoe UI;  color: #fefae0;"><ah>Team</ah></a></b></li> -->
+        
+      </ul>
+    </nav>
+    
+    <script src="./assets/js/vanilla-back-to-top.min.js"></script>
+    <script>addBackToTop({
+        backgroundColor: '#fff',
+        innerHTML: 'Back to Top',
+        textColor: '#333'
+      })
+    </script>
+    <style>
+        #back-to-top {
+          border: 1px solid #ccc;
+          border-radius: 0;
+          font-size: 15px;
+          width: 100px;
+          text-align: center;
+          line-height: 30px;
+          height: 30px;
+        }
+    </style>
+    
+    <div class="wrapper2">
+      <section>
+      {{ content }}
+      <div style="margin:0 auto; pointer-events: none;">
+      <!-- <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=W6TBeICRe1MfdyxdWvqd7-X_0iGwVe8gbtslgWpF1H0"></script> -->
+      <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=d4a373&w=200&t=tt&d=W6TBeICRe1MfdyxdWvqd7-X_0iGwVe8gbtslgWpF1H0&co=ffffff&ct=3d405b&cmo=81b29a&cmn=e07a5f'></script> -->
+      </div>
+      <br>
+
+      </section>
+      
+
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+   
+
+  </body>
+
+  
+</html>
