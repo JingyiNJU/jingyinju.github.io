@@ -6,7 +6,7 @@ layout: homepage
 
 I am an Assistant Researcher (2024-) in the [School of Computer Science](https://cs.nju.edu.cn/main.htm) at [Nanjing University](http://www.nju.edu.cn/). I am a member of [DisLab](http://dislab.nju.edu.cn). 
 Previously, I received my Ph.D. (2018-2024) from [Nanjing University](http://www.nju.edu.cn/), advised by  Prof. [Lei Xie](https://cs.nju.edu.cn/lxie/index.htm). 
-I was fortunate to visit [Nanyang Technological University](https://www.ntu.edu.sg) (2022-2023), working closely with Prof. [Jun Lup](https://personal.ntu.edu.sg/junluo/. 
+I was fortunate to visit [Nanyang Technological University](https://www.ntu.edu.sg) (2022-2023), working closely with Prof. [Jun Luo](https://personal.ntu.edu.sg/junluo/). 
 
 My research interests include machine learning and its applications in computer vision, currently focusing on continual learning, pre-trained model reuse, and multimodal large language models.
 
