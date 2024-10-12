@@ -34,7 +34,7 @@ I am looking for highly self-motivated students. Please drop me an email with yo
 
 
 
-For more details, please view the <a href="./publication.html">full publication page.
+<!-- For more details, please view the <a href="./publication.html">full publication page. -->
 <!-- </a> or <a href="https://scholar.google.com/citations?user=kMNaR-YAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.  -->
 
 
