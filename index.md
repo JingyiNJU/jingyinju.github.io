@@ -6,7 +6,7 @@ layout: homepage
 
 I am an Assistant Researcher (2024-) in the [School of Computer Science](https://cs.nju.edu.cn/main.htm) at [Nanjing University](http://www.nju.edu.cn/).  
 Previously, I received my Ph.D. (2018-2024) from the <a href="https://dislab.nju.edu.cn/">DIStributed computing LABoratory (DISLAB)</a>,
-<a href="https://cs.nju.edu.cn/main.htm">School of Computer Science</a> of Nanjing University, supervised by Prof. <a href="https://cs.nju.edu.cn/lxie/index.htm">Lei Xie</a> and Prof. <a href="https://cs.nju.edu.cn/yebl/index.htm">Baoliu Ye</a>. I was fortunate to visit Nanyang Technological University in Singapore</a> (2022-2023), working closely with Prof. <a href="https://personal.ntu.edu.sg/junluo/">Jun Luo</a>.
+<a href="https://cs.nju.edu.cn/main.htm">School of Computer Science</a> of Nanjing University, supervised by Prof. <a href="https://cs.nju.edu.cn/lxie/index.htm">Lei Xie</a> and Prof. <a href="https://cs.nju.edu.cn/yebl/index.htm">Baoliu Ye</a>. I was fortunate to visit Nanyang Technological University in Singapore (2022-2023), working closely with Prof. <a href="https://personal.ntu.edu.sg/junluo/">Jun Luo</a>.
 
 My research interests include Intelligent Sensing, Mobile Computing, and Wireless Sensing.
 
