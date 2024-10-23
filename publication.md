@@ -71,9 +71,22 @@ layout: singlecol
 ### Conference Paper
 
 <ol>  
+
+
+  <li><strong>MoiréVision: A Generalized Moiré-based Mechanism for 6-DoF Motion Sensing</strong>
+  <br>
+  <strong>Jingyi Ning</strong>, Lei Xie, Zhihao Yan, Yanling Bu, Jun Luo
+  <br>
+  In Proceedings of the 30th Annual International Conference on Mobile Computing and Networking, (<strong style="color:#1e90ff">MobiCom</strong>),  2024. 
+  <br>
+   <a href="https://arxiv.org/abs/2403.12030" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <br>
+  </li>
+
+
    <li><strong>MoiréPose: Ultra High Precision Camera-to-Screen Pose Estimation based on Moiré Pattern</strong>
   <br>
-  <strong>Jingyi Ning</strong>, Lei Xie, Yi Li, Yingying Chen, Yanling Bu, Baoliu Ye, Sanglu Lu.
+  <strong>Jingyi Ning</strong>, Lei Xie, Yi Li, Yingying Chen, Yanling Bu, Baoliu Ye, Sanglu Lu
   <br>
   In Proceedings of the 28th Annual International Conference on Mobile Computing and Networking (<strong style="color:#1e90ff">MobiCom</strong>),  2022. 
   <br>
@@ -83,7 +96,7 @@ layout: singlecol
 
   <li><strong>Continual Learning with Pre-Trained Models: A Survey</strong>
   <br>
-  <strong>Da-Wei Zhou</strong>, Hai-Long Sun, Jingyi Ning, Han-Jia Ye, De-Chuan Zhan
+  Da-Wei Zhou, Hai-Long Sun, <strong>Jingyi Ning</strong>, Han-Jia Ye, De-Chuan Zhan
   <br>
  The 33rd International Joint Conference on Artificial Intelligence (<strong style="color:#1e90ff">IJCAI</strong>),  2024. 
   <br>
@@ -92,139 +105,7 @@ layout: singlecol
   <br>
   </li>
 
-  <li><strong>Multi-layer Rehearsal Feature Augmentation for Class-Incremental Learning</strong>
-  <br>
-  Bowen Zheng, <strong>Da-Wei Zhou</strong><sup><i class="fa-regular fa-envelope fa-xs"></i></sup>, Han-Jia Ye, De-Chuan Zhan
-  <br>
- The 41st International Conference on Machine Learning (<strong style="color:#1e90ff">ICML</strong>),  2024. 
-  <br>
-  <a href="https://openreview.net/forum?id=aksdU1KOpT" target="_blank">Paper</a> &nbsp;  &nbsp;  &nbsp; 
-  <a href="https://github.com/bwnzheng/MRFA_ICML2024" target="_blank">Code</a>
-  <br>
-  </li>
-
-  <li><strong>A Model or 603 Exemplars: Towards Memory-Efficient Class-Incremental Learning</strong>
-  <br>
-  <strong>Da-Wei Zhou</strong>, Qi-Wei Wang, Han-Jia Ye,  De-Chuan Zhan
-  <br>
-  The 11th International Conference on Learning Representations (<strong style="color:#1e90ff">ICLR</strong>),  2023. 
-  <br>
-  <strong style="color:#e74d3c">Spotlight Presentation</strong>
-  <br>
-  <a href="https://arxiv.org/abs/2205.13218" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp; 
-  <a href="  https://github.com/wangkiw/ICLR23-MEMO" target="_blank">Code</a>
-  <br>
-  </li>
   
-  <li><strong>Few-Shot Class-Incremental Learning via Training-Free Prototype Calibration</strong>
-  <br>Qi-Wei Wang, <strong>Da-Wei Zhou</strong>, Yi-Kai Zhang,  De-Chuan Zhan, Han-Jia Ye<br>
-  The 37th Conference on Neural Information Processing Systems (<strong style="color:#1e90ff">NeurIPS</strong>),  2023.
-  <br>
-   <a href="https://openreview.net/forum?id=8NAxGDdf7H" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp; 
-  <a href="https://github.com/wangkiw/TEEN" target="_blank">Code</a>
-  <br>
-  </li>
-
-  
-
-  <li><strong>BEEF: Bi-Compatible Class-Incremental Learning via Energy-Based Expansion and Fusion</strong>
-  <br>Fu-Yun Wang, <strong>Da-Wei Zhou</strong>, Liu Liu, Yatao Bian, Han-Jia Ye, De-Chuan Zhan, Peilin Zhao<br>
-  The 11th International Conference on Learning Representations (<strong style="color:#1e90ff">ICLR</strong>),  2023.
-  <br>
-  <a href="https://openreview.net/forum?id=iP77_axu0h3" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp; 
-  <a href="  https://github.com/G-U-N/ICLR23-BEEF" target="_blank">Code</a>
-  <br>
-  </li>
-
-  <li><strong>Preserving Locality in Vision Transformers for Class Incremental Learning</strong>
-  <br>Bowen Zheng, <strong>Da-Wei Zhou</strong>, Han-Jia Ye, De-Chuan Zhan<br>
-  IEEE International Conference on Multimedia and Expo (<strong style="color:#1e90ff">ICME</strong>),  2023. 
-  <!-- <br> -->
-  <!-- (<strong style="color:#e74d3c">Oral Presentation</strong>) -->
-  <br>
-  <a href="https://arxiv.org/abs/2304.06971" target="_blank">Paper</a>  &nbsp;  &nbsp;  &nbsp; 
-  <a href="https://github.com/bwnzheng/LPA_ICME2023" target="_blank">Code</a>
-  <br>
-  </li>
-
-  <li><strong>Forward Compatible Few-Shot Class-Incremental Learning</strong>
-  <br>
-  <strong>Da-Wei Zhou</strong>, Fu-Yun Wang, Han-Jia Ye, Liang Ma, Shiliang Pu, De-Chuan Zhan
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition (<strong style="color:#1e90ff">CVPR</strong>),  2022. 
-  <br>
-  <a href="https://arxiv.org/abs/2203.06953" target="_blank">Paper</a> &nbsp;  &nbsp;  &nbsp; 
-  <a href="https://github.com/zhoudw-zdw/CVPR22-Fact" target="_blank">Code</a>
-  <br>
-  </li>
-
-  <li><strong>FOSTER: Feature Boosting and Compression for Class-Incremental Learning</strong>
-  <br>
-  Fu-Yun Wang, <strong>Da-Wei Zhou</strong>, Han-Jia Ye, De-Chuan Zhan
-  <br>
-  European Conference on Computer Vision (<strong style="color:#1e90ff">ECCV</strong>),  2022. 
-  <br>
-  <a href="https://arxiv.org/abs/2204.04662" target="_blank">Paper</a> &nbsp;  &nbsp;  &nbsp; 
-  <a href="https://github.com/G-U-N/ECCV22-FOSTER" target="_blank">Code</a>
-  <br>
-  </li>
-
-  <li><strong>Audio-Visual Generalized Few-Shot Learning with Prototype-Based Co-Adaptation</strong>
-    <br>
-    Yi-Kai Zhang, <strong>Da-Wei Zhou</strong>, Han-Jia Ye, De-Chuan Zhan
-    <br>
-    The 23rd Conference of the International Speech Communication Association (<strong style="color:#1e90ff">INTERSPEECH</strong>),  2022. 
-  <br>
-  <a href="https://www.isca-speech.org/archive/interspeech_2022/zhang22k_interspeech.html" target="_blank">Paper</a> &nbsp;  &nbsp;  &nbsp; 
-  <a href="https://github.com/ZhangYikaii/Proto-CAT" target="_blank">Code</a>
-  <br>
-  </li>
-
-  <li><strong>Learning Placeholders for Open-Set Recognition</strong>
-  <br>
-  <strong>Da-Wei Zhou</strong>, Han-Jia Ye, De-Chuan Zhan
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition (<strong style="color:#1e90ff">CVPR</strong>),  2021. 
-  <br>
-  <strong style="color:#e74d3c">Oral Presentation</strong>
-  <br>
-  <a href="https://arxiv.org/abs/2103.15086" target="_blank">Paper</a> &nbsp;  &nbsp;  &nbsp; 
-  <a href="https://github.com/zhoudw-zdw/CVPR21-Proser" target="_blank">Code</a>
-  <br>
-  </li>
-
-    <li><strong>Co-Transport for Class-Incremental Learning</strong>
-<br>
-<strong>Da-Wei Zhou</strong>, Han-Jia Ye, De-Chuan Zhan
-<br>
-The 29th ACM International Conference on Multimedia (<strong style="color:#1e90ff">ACM MM</strong>),  2021. 
-  <br>
-  <a href="https://arxiv.org/abs/2107.12654" target="_blank">Paper</a> &nbsp;  &nbsp;  &nbsp; 
-  <a href="https://github.com/zhoudw-zdw/MM21-Coil" target="_blank">Code</a>
-  <br>
-  </li>
-
-  <li><strong>Detecting Sequentially Novel Classes with Stable Generalization Ability</strong>
-<br>
-<strong>Da-Wei Zhou</strong>, Yang Yang, De-Chuan Zhan
-<br>
-The 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (<strong style="color:#1e90ff">PAKDD</strong>),  2021. 
-  <br>
-  <a href="https://link.springer.com/chapter/10.1007/978-3-030-75762-5_30" target="_blank">Paper</a>
-  <br>
-  </li>
-
-  <li><strong>Adaptive Deep Models for Incremental Learning: Considering Capacity Scalability and Sustainability</strong>
-  <br>
-  Yang Yang, <strong>Da-Wei Zhou</strong>, De-Chuan Zhan, Hui Xiong, Yuan Jiang
-  <br>
-  The 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (<strong style="color:#1e90ff">KDD</strong>),  2019. 
-  <!-- (<strong style="color:#e74d3c">Oral Presentation</strong>) -->
-  <br>
-  <a href="https://dl.acm.org/doi/10.1145/3292500.3330865" target="_blank">Paper</a> &nbsp;  &nbsp;  &nbsp; 
-  <a href="https://github.com/zhoudw-zdw/KDD19-IADM" target="_blank">Code</a>
-  <br>
-  </li>
   
 </ol>
 
