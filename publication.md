@@ -106,6 +106,17 @@ layout: singlecol
   <br>
   </li>
 
+
+   <li><strong>RFDetector: Internal 3D Structure Detection of Logistics Packages via RFID Systems</strong>
+  <br>
+  <strong>Jingyi Ning</strong>, Lei Xie, Chuyu Wang, Yanling Bu, Baoliu Ye, Sanglu Lu.
+  <br>
+  In Proceeding of International Conference on Computer Communications and Networks, (<strong style="color:#1e90ff">ICCCN</strong>),  2020. 
+  <br>
+   <a href="https://arxiv.org/abs/2403.12030" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <br>
+  </li>
+
   <li><strong>Continual Learning with Pre-Trained Models: A Survey</strong>
   <br>
   Da-Wei Zhou, Hai-Long Sun, <strong>Jingyi Ning</strong>, Han-Jia Ye, De-Chuan Zhan
