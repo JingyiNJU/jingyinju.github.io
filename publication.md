@@ -8,8 +8,10 @@ layout: singlecol
 
 <!-- <a href="index.html#lcinc">page jump</a> -->
 
-<!-- *: Equal contributions; &nbsp; <i class="fa-regular fa-envelope fa-xs"></i>: Corresponding author.
 
+*: Equal contributions; &nbsp; <i class="fa-regular fa-envelope fa-xs"></i>: Corresponding author.
+
+<!--
 ### Preprints
 
 
@@ -76,6 +78,16 @@ layout: singlecol
   <li><strong>MoiréVision: A Generalized Moiré-based Mechanism for 6-DoF Motion Sensing</strong>
   <br>
   <strong>Jingyi Ning</strong>, Lei Xie, Zhihao Yan, Yanling Bu, Jun Luo
+  <br>
+  In Proceedings of the 30th Annual International Conference on Mobile Computing and Networking, (<strong style="color:#1e90ff">MobiCom</strong>),  2024. 
+  <br>
+   <a href="https://arxiv.org/abs/2403.12030" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <br>
+  </li>
+
+  <li><strong>MoiréVib: Micron-level Vibration Detection based on-Moiré Pattern</strong>
+  <br>
+  <strong>Jingyi Ning*</strong>, Zhihao Yan*, Zhaowei Wu, Lei Xie, Chuyu Wang, Yingying Chen, Baoliu Ye, Sanglu Lu
   <br>
   In Proceedings of the 30th Annual International Conference on Mobile Computing and Networking, (<strong style="color:#1e90ff">MobiCom</strong>),  2024. 
   <br>
