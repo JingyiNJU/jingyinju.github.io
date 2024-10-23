@@ -138,6 +138,16 @@ layout: singlecol
   <br>
   </li>
 
+   <li><strong>Revolving Scanning on Tagged Objects: 3D Structure Detection of Logistics Packages via RFID systems</strong>
+  <br>
+  <strong>Jingyi Ning</strong>, Lei Xie, Chuyu Wang, Yanling Bu, Fu Xiao, Baoliu Ye, Sanglu Lu
+  <br>
+  ACM Transactions on Sensor Networks (<strong style="color:#1e90ff">TOSN</strong>),  18(2): 1-29 (2022). 
+  <br>
+   <a href="https://arxiv.org/abs/2403.12030" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <br>
+  </li>
+
   <li><strong>RF-Badge: Vital Sign-based Authentication via RFID Tag Array on Badges</strong>
 <br>
 <strong>Jingyi Ning</strong>, Lei Xie, Chuyu Wang, Yanling Bu, Fengyuan Xu, Da-Wei Zhou, Baoliu Ye, Sanglu Lu
