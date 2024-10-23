@@ -8,7 +8,7 @@ layout: singlecol
 
 <!-- <a href="index.html#lcinc">page jump</a> -->
 
-*: Equal contributions; &nbsp; <i class="fa-regular fa-envelope fa-xs"></i>: Corresponding author.
+<!-- *: Equal contributions; &nbsp; <i class="fa-regular fa-envelope fa-xs"></i>: Corresponding author.
 
 ### Preprints
 
@@ -25,7 +25,6 @@ layout: singlecol
  arXiv 2023.
   <br>
   <a href="https://arxiv.org/abs/2305.19270" target="_blank">Paper</a> &nbsp;  &nbsp;  &nbsp; 
-  <!-- <a href="https://github.com/zhoudw-zdw/RevisitingCIL" target="_blank">Code</a> -->
   <br>
   </li>
 
@@ -67,20 +66,18 @@ layout: singlecol
 
   
   
-</ol>
+</ol> -->
 
 ### Conference Paper
 
-<ol>
-  
-   <li><strong>Expandable Subspace Ensemble for Pre-Trained Model-Based Class-Incremental Learning</strong>
+<ol>  
+   <li><strong>MoiréPose: Ultra High Precision Camera-to-Screen Pose Estimation based on Moiré Pattern</strong>
   <br>
-  <strong>Da-Wei Zhou</strong>, Hai-Long Sun, Han-Jia Ye,  De-Chuan Zhan
+  <strong>Jingyi Ning</strong>, Lei Xie, Yi Li, Yingying Chen, Yanling Bu, Baoliu Ye, Sanglu Lu.
   <br>
-  The IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong style="color:#1e90ff">CVPR</strong>),  2024. 
+  In Proceedings of the 28th Annual International Conference on Mobile Computing and Networking (<strong style="color:#1e90ff">MobiCom</strong>),  2022. 
   <br>
    <a href="https://arxiv.org/abs/2403.12030" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
-  <a href="https://github.com/sun-hailong/CVPR24-Ease" target="_blank">Code</a> 
   <br>
   </li>
 
