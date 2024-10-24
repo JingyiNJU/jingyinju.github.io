@@ -17,7 +17,7 @@ I am looking for highly self-motivated students. Please drop me an email with yo
 
 ## News
 <div class="container custom-scrollbar" style="height:200px;width:103%;overflow:auto;">
-  <li>[2024-09] One paper about Millimeter-wave Sensing is accepted by <a href="https://www.sigmobile.org/mobicom/2025/" target="_blank">ACM UbiComp 2025</a>.</li>
+  <li>[2024-09] One paper about Millimeter-wave Sensing is accepted by <a href="https://sigchi.org/events/ubicomp-iswc-2025/" target="_blank">ACM UbiComp 2025</a>.</li>
   <li>[2024-09] One paper about RFID Sensing is accepted by <a href="https://dl.acm.org/journal/health" target="_blank">ACM TCH</a>.</li>
   <li>[2024-09] Successfully defended my Ph.D. dissertation.</li>
   <li>[2024-08] One paper about Moire Vision Sensing is accepted by <a href="https://www.sigmobile.org/mobicom/2024/" target="_blank">ACM MobiCom 2024</a>.</li>

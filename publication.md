@@ -127,7 +127,17 @@ layout: singlecol
   <a href="https://github.com/sun-hailong/LAMDA-PILOT" target="_blank">Code</a>
   <br>
   </li>
+  
 
+  <li><strong>RF-Protractor: Non-Contacting Angle Tracking via COTS RFID in Industrial IoT Environment</strong>
+  <br>
+   Tingjun Liu, Chuyu Wang, Lei Xie, <strong>Jingyi Ning</strong>, Tie Qiu, Fu Xiao, Sanglu Lu
+  <br>
+  In Proceeding of IEEE International Conference on Computer Communications (<strong style="color:#1e90ff">INFOCOM</strong>),  2022. 
+  <br>
+   <a href="https://arxiv.org/abs/2403.12030" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <br>
+  </li>
 
 </ol>
 
