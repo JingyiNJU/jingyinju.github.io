@@ -10,10 +10,10 @@ Previously, I received my Ph.D. (2018-2024) from the <a href="https://dislab.nju
 
 My research interests include Intelligent Sensing, Mobile Computing, and Wireless Sensing.
 
-<!-- <div class="highlighted-text">
+<div class="highlighted-text">
   <i class="fa-regular fa-bell"></i>&nbsp;
 I am looking for highly self-motivated students. Please drop me an email with your resume and transcript if you are interested in working together with me.
-</div> -->
+</div>
 
 ## News
 <div class="container custom-scrollbar" style="height:200px;width:103%;overflow:auto;">
