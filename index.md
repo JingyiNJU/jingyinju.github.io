@@ -101,8 +101,6 @@ For more details, please view the <a href="./publication.html">full publication 
 
 
 
-
-
 </ol>
 </div>
 
@@ -122,7 +120,7 @@ For more details, please view the <a href="./publication.html">full publication 
   <div id="cil_survey" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
   <div class="title">MoiréTracker: Continuous Camera-to-Screen 6-DoF Pose Tracking based on Moiré Pattern</div>
   <div class="author"><strong>Jingyi Ning</strong>, Lei Xie,Yi Li ,Yingying Chen ,Yanling Bu, Chuyu Wang, Sanglu Lu and Baoliu Ye.</div>
-    <div class="periodical"><em>IEEE Journal on Selected Areas in Communications. <strong><i style="color:#1e90ff">JSAC</i></strong>.</em>  
+    <div class="periodical"><em>IEEE Journal on Selected Areas in Communications. <strong><i style="color:#1e90ff">JSAC</i></strong>, 2024.</em>  
   </div>
   [<a href="https://ieeexplore.ieee.org/document/10557737" target="_blank">Paper</a>]
   <br />
@@ -139,9 +137,9 @@ For more details, please view the <a href="./publication.html">full publication 
     <abbr class="badge">TMC</abbr>
   </div>
   <div id="limit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-  <div class="title">RF-Badge: Vital Sign-based Authentication via RFID Tag Array on Badges</div>
+  <div class="title">RF-Badge: Vital Sign-based Authentication via RFID Tag Array on Badges.</div>
   <div class="author"><strong>Jingyi Ning</strong>, Lei Xie, Chuyu Wang, Yanling Bu, Fengyuan Xu, Da-wei Zhou, Sanglu Lu, and Baoliu Ye.</div>
-  <div class="periodical"><em>IEEE Transactions on Mobile Computing. <strong><i style="color:#1e90ff">TMC</i></strong>.</em> 
+  <div class="periodical"><em>IEEE Transactions on Mobile Computing. <strong><i style="color:#1e90ff">TMC</i></strong>, 2021.</em> 
   </div>
  [<a href="https://ieeexplore.ieee.org/document/9490377" target="_blank">Paper</a>]
 <br />
@@ -149,6 +147,24 @@ For more details, please view the <a href="./publication.html">full publication 
 </div>
 </li>
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="file/teaser/TOSN.png" class="teaser img-fluid z-depth-1" />
+    <abbr class="badge">TMC</abbr>
+  </div>
+  <div id="limit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="title">Revolving Scanning on Tagged Objects: 3D Structure Detection of Logistics Packages via RFID systems.</div>
+  <div class="author"><strong>Jingyi Ning</strong>, Lei Xie, Chuyu Wang, Yanling Bu, Fu Xiao, Baoliu Ye, Sanglu Lu.</div>
+  <div class="periodical"><em>ACM Transactions on Sensor Networks. <strong><i style="color:#1e90ff">TOSN</i></strong>, 2022.</em> 
+  </div>
+ [<a href="https://dl.acm.org/doi/10.1145/3490171" target="_blank">Paper</a>]
+<br />
+  </div>
+</div>
+</li>
+
+  
 
 
 

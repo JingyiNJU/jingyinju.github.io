@@ -213,12 +213,21 @@ layout: singlecol
   <br>
   </li>
 
-  
+
  
+  <li><strong>感算控一体化赋能工业互联网精准智能制造.</strong>
+  <br>
+  谢磊，王楚豫，<strong>宁静仪</strong>，朱善迎.
+  <br>
+  中国计算机学会通讯 (CCCF). 第 20 卷，第 9 期，2024.
+  <br>
+  <a href="" target="_blank">Paper</a>
+  <br>
+  </li>
+
   <li><strong>从“识别”到“感知”：基于RFID的可标记无源感知.</strong>
   <br>
   谢磊，王楚豫，卜艳玲，<strong>宁静仪</strong>，陆桑璐.
-  <strong>Jingyi Ning</strong>, Lei Xie, Chuyu Wang, Yanling Bu, Fengyuan Xu, Da-Wei Zhou, Baoliu Ye, Sanglu Lu
   <br>
   中国计算机学会通讯 (CCCF). 第 17 卷，第 2 期，2021.
   <br>
