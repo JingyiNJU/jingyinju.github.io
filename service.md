@@ -28,6 +28,6 @@ layout: singlecol
 
 ## Competitions
 
-- [2020-10] China Collegiate Computing Competition - Network Technology Challenge， ** National First Prize** 
-- [2021-11] The 7th China International “Internet+” Competition, Industrial Track, ** First Prize of Jiangsu Province ** 
+- [2020-10] China Collegiate Computing Competition - Network Technology Challenge， **National First Prize** 
+- [2021-11] The 7th China International “Internet+” Competition, Industrial Track, **First Prize of Jiangsu Province** 
 
