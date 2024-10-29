@@ -33,11 +33,8 @@ I am looking for highly self-motivated students. Please drop me an email with yo
 ## Selected Publications 
 
 
-
-<!-- For more details, please view the <a href="./publication.html">full publication page. -->
+For more details, please view the <a href="./publication.html">full publication page.
 <!-- </a> or <a href="https://scholar.google.com/citations?user=kMNaR-YAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.  -->
-
-
 
 
 
@@ -102,66 +99,6 @@ I am looking for highly self-motivated students. Please drop me an email with yo
 </li>
 
 
-<!-- <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="file/teaser/ptm-cl-survey.png" class="teaser img-fluid z-depth-1" />
-    <abbr class="badge">IJCAI</abbr> 
-  </div>
-  <div id="ptm_cl_survey" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-  <div class="title">Continual Learning with Pre-Trained Models: A Survey</div>
-  <div class="author"><strong>Da-Wei Zhou</strong>, Hai-Long Sun, Jingyi Ning, Han-Jia Ye, De-Chuan Zhan</div>
-  <div class="periodical"><em> The 33rd International Joint
-Conference on Artificial Intelligence. <strong><i style="color:#1e90ff">IJCAI 2024</i></strong>. </em> 
-  </div>
-[<a href="https://arxiv.org/abs/2401.16386" target="_blank">Paper</a>]
-[<a href="https://github.com/sun-hailong/LAMDA-PILOT">Code</a>]
-[<a href="https://mp.weixin.qq.com/s/dWumvQxhlItc_Lo2uv4SEg">Media</a>]
-  <br />
- <img src="https://img.shields.io/github/stars/sun-hailong/LAMDA-PILOT?style=flat&amp;label=Stars&amp;logo=github&amp;labelColor=f6f6f6&amp;color=9cf&amp;logoColor=020d12" />
-  </div>
-</div>
-</li> -->
-
-
-<!-- <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="file/teaser/3ef.png" class="teaser img-fluid z-depth-1" />
-    <abbr class="badge">ICLR</abbr>
-  </div>
-  <div id="beef" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-  <div class="title">BEEF: Bi-Compatible Class-Incremental Learning via Energy-Based Expansion and Fusion </div>
-  <div class="author">Fu-Yun Wang, <strong>Da-Wei Zhou</strong>, Liu Liu, Yatao Bian, Han-Jia Ye, De-Chuan Zhan, Peilin Zhao</div>
-  <div class="periodical"><em>The 11th International Conference on Learning Representations. <strong><i style="color:#1e90ff">ICLR 2023</i></strong>. </em> 
-  </div>
-[<a href="https://openreview.net/forum?id=iP77_axu0h3" target="_blank">Paper</a>] 
-[<a href="https://github.com/G-U-N/ICLR23-BEEF">Code</a>]
-  </div>
-</div>
-</li> -->
-
-
-<!-- <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="file/teaser/proser.png" class="teaser img-fluid z-depth-1" />
-    <abbr class="badge">CVPR Oral</abbr>
-  </div>
-  <div id="proser" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-  <div class="title">Learning Placeholders for Open-Set Recognition</div>
-  <div class="author"><strong>Da-Wei Zhou</strong>, Han-Jia Ye, De-Chuan Zhan</div>
-  <div class="periodical"><em>IEEE Conference on Computer Vision and Pattern Recognition. <strong><i style="color:#1e90ff">CVPR 2021</i></strong>. </em> <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
-  </div>
-[<a href="https://arxiv.org/abs/2103.15086" target="_blank">Paper</a>]
-[<a href="./file/CVPR21/CVPR21_project.html" target="_blank">Project Page</a>]
-[<a href="https://github.com/zhoudw-zdw/CVPR21-Proser" target="_blank">Code</a>]
-<br />
- <img src="https://img.shields.io/badge/dynamic/json?labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=Citations&amp;logo=Google%20Scholar&amp;url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhoudw7%2Fzhoudw7.github.io@google-scholar-stats%2Fgs_data.json&amp;query=$[%27publications%27][%27kMNaR-YAAAAJ:Tyk-4Ss8FVUC%27][%27num_citations%27]" />
-  </div>
-</div>
-</li> -->
-
 
 
 
@@ -187,10 +124,8 @@ Conference on Artificial Intelligence. <strong><i style="color:#1e90ff">IJCAI 20
   <div class="author"><strong>Jingyi Ning</strong>, Lei Xie,Yi Li ,Yingying Chen ,Yanling Bu, Chuyu Wang, Sanglu Lu and Baoliu Ye.</div>
     <div class="periodical"><em>IEEE Journal on Selected Areas in Communications. <strong><i style="color:#1e90ff">JSAC</i></strong>.</em>  
   </div>
-[<a href="https://ieeexplore.ieee.org/document/10557737" target="_blank">Paper</a>]
+  [<a href="https://ieeexplore.ieee.org/document/10557737" target="_blank">Paper</a>]
   <br />
- <!-- <img src="https://img.shields.io/badge/dynamic/json?labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=Citations&amp;logo=Google%20Scholar&amp;url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhoudw7%2Fzhoudw7.github.io@google-scholar-stats%2Fgs_data.json&amp;query=$[%27publications%27][%27kMNaR-YAAAAJ:TQgYirikUcIC%27][%27num_citations%27]" />
- <img src="https://img.shields.io/github/stars/zhoudw-zdw/CIL_survey?style=flat&amp;label=Stars&amp;logo=github&amp;labelColor=f6f6f6&amp;color=9cf&amp;logoColor=020d12" /> -->
   </div>
 </div>
 </li>
@@ -209,37 +144,11 @@ Conference on Artificial Intelligence. <strong><i style="color:#1e90ff">IJCAI 20
   <div class="periodical"><em>IEEE Transactions on Mobile Computing. <strong><i style="color:#1e90ff">TMC</i></strong>.</em> 
   </div>
  [<a href="https://ieeexplore.ieee.org/document/9490377" target="_blank">Paper</a>]
-<!-- [<a href="https://github.com/zhoudw-zdw/Limit" target="_blank">Code</a>] -->
 <br />
- <!-- <img src="https://img.shields.io/badge/dynamic/json?labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=Citations&amp;logo=Google%20Scholar&amp;url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhoudw7%2Fzhoudw7.github.io@google-scholar-stats%2Fgs_data.json&amp;query=$[%27publications%27][%27kMNaR-YAAAAJ:0EnyYjriUFMC%27][%27num_citations%27]" /> -->
   </div>
 </div>
 </li>
 
-
-
-<!-- <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="file/teaser/pycil.png" class="teaser img-fluid z-depth-1" />
-    <abbr class="badge">SCIS</abbr>
-  </div>
-  <div id="pycil" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-  <div class="title">PyCIL: A Python Toolbox for Class-Incremental Learning</div>
-  <div class="author"><strong>Da-Wei Zhou*</strong>, Fu-Yun Wang*, Han-Jia Ye, De-Chuan Zhan </div>
-  <div class="periodical"><em>SCIENCE CHINA Information Sciences. <strong><i style="color:#1e90ff">SCIS</i></strong>.</em>
-  </div>
- [<a href="https://arxiv.org/abs/2112.12533" target="_blank">Paper</a>]
- [<a href="https://github.com/G-U-N/PyCIL">Code</a>] 
- [<a href="https://mp.weixin.qq.com/s/A472p7XGZMhAMAR2wyHZJw">Media</a>] 
- [<a href="https://mp.weixin.qq.com/s/h1qu2LpdvjeHAPLOnG478A">中文解读</a>]
- <br />
-<img src="https://img.shields.io/badge/dynamic/json?labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=Citations&amp;logo=Google%20Scholar&amp;url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhoudw7%2Fzhoudw7.github.io@google-scholar-stats%2Fgs_data.json&amp;query=$[%27publications%27][%27kMNaR-YAAAAJ:qxL8FJ1GzNcC%27][%27num_citations%27]" />
-<img src="https://img.shields.io/github/stars/G-U-N/PyCIL?style=flat&amp;label=Stars&amp;logo=github&amp;labelColor=f6f6f6&amp;color=9cf&amp;logoColor=020d12" />
-<img src="https://img.shields.io/github/forks/G-U-N/PyCIL?style=flat&amp;label=Forks&amp;logo=github&amp;labelColor=f6f6f6&amp;color=9cf&amp;logoColor=020d12" />
-  </div>
-</div>
-</li> -->
 
 
 
@@ -249,5 +158,5 @@ Conference on Artificial Intelligence. <strong><i style="color:#1e90ff">IJCAI 20
 
 <!-- ## Contact
 
-- **Office**: Room A202, Yifu Building, Nanjing University Xianlin Campus. 
-- **Email**: zhoudw (at) lamda.nju.edu.cn **OR** zhoudw  (at) nju.edu.cn -->
+- **Office**: Room 619, School of Computer Science, Nanjing University Xianlin Campus. 
+- **Email**: ningjy (at) nju.edu.cn  -->
