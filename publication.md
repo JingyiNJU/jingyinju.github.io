@@ -85,7 +85,7 @@ layout: singlecol
 
   <li><strong>mmEavesdropper: Signal Augmentation-based Directional Eavesdropping with mm-Wave Radar.</strong>
   <br>
-    Yiwen Feng, Kai Zhang, Chuyu Wang, Lei Xie, <strong>Jingyi Ning</strong>, and Shijia Chen.
+    Yiwen Feng, Kai Zhang, Chuyu Wang, Lei Xie, <strong>Jingyi Ning</strong>, Shijia Chen.
   <br>
     In Proceeding of IEEE International Conference on Computer Communications (<strong style="color:#1e90ff">INFOCOM</strong>), 2023. 
   <br>
@@ -96,7 +96,7 @@ layout: singlecol
 
    <li><strong>PalmEcho: Multimodal Authentication for Smartwatch via Beating Gestures.</strong>
   <br>
-    Qing Guo, Gaolei Duan, Lei Xie, <strong>Jingyi Ning</strong>, Chuyu Wang, Baoliu Ye and Sanglu Lu. 
+    Qing Guo, Gaolei Duan, Lei Xie, <strong>Jingyi Ning</strong>, Chuyu Wang, Baoliu Ye, Sanglu Lu. 
   <br>
    In Proceeding of 20th Annual IEEE International Conference on Sensing, Communication, and Networking (<strong style="color:#1e90ff">SECON</strong>), 2023. 
   <br>
@@ -129,7 +129,7 @@ layout: singlecol
 
 <li><strong>Edge-Cloud Collaboration for Human Activity Recognition on Multiple Subjects.</strong>
   <br>
-   Wenjing Xiao, Lei Xie, <strong>Jingyi Ning</strong>, Ziyu Fu, Ming Zhao, Zhenjie Lin and Qiang Lin.
+   Wenjing Xiao, Lei Xie, <strong>Jingyi Ning</strong>, Ziyu Fu, Ming Zhao, Zhenjie Lin, Qiang Lin.
   <br>
   In Proceeding of IEEE 23rd International Symposium on a World of Wireless, Mobile and Multimedia Networks (<strong style="color:#1e90ff">WoWMoM</strong>), 2022. 
   <br>
@@ -224,7 +224,7 @@ layout: singlecol
   <a href="" target="_blank">Paper</a>
   <br>
   </li>
-  
+
 
   <li><strong>从“识别”到“感知”：基于RFID的可标记无源感知.</strong>
   <br>
