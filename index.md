@@ -17,13 +17,22 @@ I am looking for highly self-motivated students. Please drop me an email with yo
 
 ## News
 <div class="container custom-scrollbar" style="height:200px;width:103%;overflow:auto;">
+  <li>[2025-12] Awarded the Outstanding Doctoral Dissertation Award from the Jiangsu Computer Society.</li>
+  <li>[2025-10] Awarded the ACM China Outstanding Doctoral Dissertation Award <strong><i style="color:#e92020">2025 ACM 中国优博 (全国仅2人)</i></strong>.</li>
+  <li>[2025-09] Awarded ACM SIGBED China Outstanding Doctoral Dissertation Award.</li>
+  <li>[2025-08] Awarded the Outstanding Doctoral Dissertation Award from the CCF Technical Committee on Pervasive Computing.</li>
+  <li>[2025-08] Award Nomination for the Top Ten Scientific and Technological Advances in the Internet of Things <strong><i style="color:#e92020">(物联网领域十大科技进展提名)</i></strong>.</li>
+  <li>[2025-08] Our paper about Moiré Vision sensing received the <strong><i style="color:#e92020">Best Paper Award</i></strong> at the 21st National Conference on Pervasive Computing (PCC 2025).</li>
+  <li>[2025-04] Awarded <em>Zijin Scholar</em> Research Fund (紫金学者).</li>
+  <li>[2024-11] Our Moiré-Based Automated Fabric Density Inspection System won the <strong><i style="color:#e92020">First Prize</i></strong> at the 1st Ubiquitous Intelligent Sensing Technology Innovation and Application Competition (Advisor).</li>
   <li>[2024-09] One paper about Millimeter-wave Sensing is accepted by <a href="https://sigchi.org/events/ubicomp-iswc-2025/" target="_blank">ACM UbiComp 2025</a>.</li>
-  <li>[2024-09] One paper about RFID Sensing is accepted by <a href="https://dl.acm.org/journal/health" target="_blank">ACM TCH</a>.</li>
+  <!-- <li>[2024-09] One paper about RFID Sensing is accepted by <a href="https://dl.acm.org/journal/health" target="_blank">ACM TCH</a>.</li> -->
   <li>[2024-09] Successfully defended my Ph.D. dissertation.</li>
   <li>[2024-08] One paper about Moire Vision Sensing is accepted by <a href="https://www.sigmobile.org/mobicom/2024/" target="_blank">ACM MobiCom 2024</a>.</li>
-  <li>[2024-06] Recognized as Jiangsu Outstanding Graduate.</li>
+  <li>[2024-07] Recognizeed as <em>Yuxiu Young Scholar</em> (毓秀青年学者).</li>
+  <!-- <li>[2024-06] Recognized as Jiangsu Outstanding Graduate.</li> -->
   <li>[2024-05] One paper about Moire Vision Sensing is accepted by <a href="https://www.comsoc.org/publications/journals/ieee-jsac" target="_blank">IEEE JSAC</a>.</li>
-  <li>[2024-04] One paper about RFID Sensing is accepted by <a href="https://icdcs2024.icdcs.org/" target="_blank">IEEE ICDCS 2024</a>.</li>
+  <!-- <li>[2024-04] One paper about RFID Sensing is accepted by <a href="https://icdcs2024.icdcs.org/" target="_blank">IEEE ICDCS 2024</a>.</li> -->
   <li>[2024-02] One paper about Moire Vision Sensing is accepted by <a href="https://www.sigmobile.org/mobicom/2024/" target="_blank">ACM MobiCom 2024</a>.</li>
   <!-- <li>[2023-12] Outstanding Ph.D. Student Innovation Capability Enhancement Program A of Nanjing University.</li>
   <li>[2022-12] Person of the Year Nominee of Nanjing University.</li> -->
