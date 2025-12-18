@@ -18,10 +18,10 @@ I am looking for highly self-motivated students. Please drop me an email with yo
 ## News
 <div class="container custom-scrollbar" style="height:200px;width:103%;overflow:auto;">
   <li>[2025-12] Awarded the Outstanding Doctoral Dissertation Award from the Jiangsu Computer Society.</li>
-  <li>[2025-10] Awarded the ACM China Outstanding Doctoral Dissertation Award <i style="color:#e92020">(2025 ACM 中国优博,全国仅2人)</i>.</li>
+  <li>[2025-10] Awarded the ACM China Outstanding Doctoral Dissertation Award <span style="color:#e92020">(2025 ACM 中国优博,全国仅2人)</span>.</li>
   <li>[2025-09] Awarded ACM SIGBED China Outstanding Doctoral Dissertation Award.</li>
   <li>[2025-08] Awarded the Outstanding Doctoral Dissertation Award from the CCF Technical Committee on Pervasive Computing.</li>
-  <li>[2025-08] Award Nomination for the Top Ten Scientific and Technological Advances in the Internet of Things <i style="color:#e92020">(物联网领域十大科技进展提名)</i>.</li>
+  <li>[2025-08] Award Nomination for the Top Ten Scientific and Technological Advances in the Internet of Things <span style="color:#e92020">(物联网领域十大科技进展提名)</span>.</li>
   <li>[2025-08] Our paper about Moiré Vision sensing received the <strong><i style="color:#e92020">Best Paper Award</i></strong> at the 21st National Conference on Pervasive Computing (PCC 2025).</li>
   <li>[2025-04] Awarded <em>Zijin Scholar</em> Research Fund (紫金学者).</li>
   <li>[2024-11] Our Moiré-Based Automated Fabric Density Inspection System won the <strong><i style="color:#e92020">First Prize</i></strong> at the 1st Ubiquitous Intelligent Sensing Technology Innovation and Application Competition (Advisor).</li>
