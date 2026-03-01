@@ -32,12 +32,12 @@ I am looking for highly self-motivated students. Please drop me an email with yo
   <li>[2024-09] One paper about Millimeter-wave Sensing is accepted by <a href="https://sigchi.org/events/ubicomp-iswc-2025/" target="_blank">ACM UbiComp 2025</a>.</li>
   <!-- <li>[2024-09] One paper about RFID Sensing is accepted by <a href="https://dl.acm.org/journal/health" target="_blank">ACM TCH</a>.</li> -->
   <li>[2024-09] Successfully defended my Ph.D. dissertation.</li>
-  <li>[2024-08] One paper about Moire Vision Sensing is accepted by <a href="https://www.sigmobile.org/mobicom/2024/" target="_blank">ACM MobiCom 2024</a>.</li>
+  <li>[2024-08] One paper about Moiré Vision Sensing is accepted by <a href="https://www.sigmobile.org/mobicom/2024/" target="_blank">ACM MobiCom 2024</a>.</li>
   <li>[2024-07] Recognizeed as <em>Yuxiu Young Scholar</em> (毓秀青年学者).</li>
   <!-- <li>[2024-06] Recognized as Jiangsu Outstanding Graduate.</li> -->
-  <li>[2024-05] One paper about Moire Vision Sensing is accepted by <a href="https://www.comsoc.org/publications/journals/ieee-jsac" target="_blank">IEEE JSAC</a>.</li>
+  <li>[2024-05] One paper about Moiré Vision Sensing is accepted by <a href="https://www.comsoc.org/publications/journals/ieee-jsac" target="_blank">IEEE JSAC</a>.</li>
   <!-- <li>[2024-04] One paper about RFID Sensing is accepted by <a href="https://icdcs2024.icdcs.org/" target="_blank">IEEE ICDCS 2024</a>.</li> -->
-  <li>[2024-02] One paper about Moire Vision Sensing is accepted by <a href="https://www.sigmobile.org/mobicom/2024/" target="_blank">ACM MobiCom 2024</a>.</li>
+  <li>[2024-02] One paper about Moiré Vision Sensing is accepted by <a href="https://www.sigmobile.org/mobicom/2024/" target="_blank">ACM MobiCom 2024</a>.</li>
   <!-- <li>[2023-12] Outstanding Ph.D. Student Innovation Capability Enhancement Program A of Nanjing University.</li>
   <li>[2022-12] Person of the Year Nominee of Nanjing University.</li> -->
 </div>
@@ -47,7 +47,7 @@ I am looking for highly self-motivated students. Please drop me an email with yo
 
 
 For more details, please view the <a href="./publication.html">full publication page.
-<!-- </a> or <a href="https://scholar.google.com/citations?user=kMNaR-YAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.  -->
+<!-- </a> or <a href="https://scholar.google.com.hk/citations?user=mvCXu8MAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.  -->
 
 
 

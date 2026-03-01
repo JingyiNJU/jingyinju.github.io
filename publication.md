@@ -5,7 +5,7 @@ layout: singlecol
 <!-- ## Full Publication by Year  -->
 <!-- <a href="./index.html" target="_blank">Back to Homepage</a>  -->
 ## Publications 
-<!-- <a href="https://scholar.google.com/citations?user=kMNaR-YAAAAJ&hl=en" target="_blank">[Google Scholar]</a> -->
+<!-- <a href="https://scholar.google.com.hk/citations?user=mvCXu8MAAAAJ&hl=en" target="_blank">[Google Scholar]</a> -->
 
 <!-- <a href="index.html#lcinc">page jump</a> -->
 
@@ -14,8 +14,6 @@ layout: singlecol
 
 <!--
 ### Preprints
-
-
 
 <ol>
 
@@ -31,33 +29,89 @@ layout: singlecol
   </li>
 
   
-  
 </ol> -->
+
 
 ### Conference Paper
 
 <ol>  
 
 
+  <li><strong>Large-Field-of-View Measurement of Fabric Density Based on Moiré Pattern for Industrial IoT.</strong>
+  <br>
+  Zhaowei Wu, <strong>Jingyi Ning</strong><i class="fa-regular fa-envelope fa-xs"></i>, Zhihao Yan, Jialu Xu, Lei Xie.
+  <br>
+  Accepted to appear in Proceeding of IEEE International Conference on Computer Communications (<strong style="color:#1e90ff">INFOCOM</strong>),  2026. 
+  <!-- <br>
+  <a href="" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <br> -->
+  </li>
+
+  <li><strong>Tackling the Imbalance in Video Analytics Pipelines with Hierarchical Embodied Intelligence.</strong>
+  <br>
+  Wenhui Zhou, Lei Xie, <strong>Jingyi Ning</strong>, Shuyu Cao, Hao Wu, Qinghua Peng and Long Fan. 
+  <br>
+  Accepted to appear in Proceeding of IEEE International Conference on Computer Communications (<strong style="color:#1e90ff">INFOCOM</strong>),  2026. 
+  <!-- <br>
+   <a href="" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <br> -->
+  </li>
+
+
+  <li><strong>SPECal: Spatial Calibration Based on Self-Pose-Estimation Between mmWave Radar and Camera.</strong>
+  <br>
+  Yi Li, Lei Xie, Yu He, <strong>Jingyi Ning</strong>, Sanglu Lu.
+  <br>
+  Proceedings of the ACM on Interactive, Mobile,Wearable and Ubiquitous Technologies (IMWUT), 2025, 9(3): 1-26. (<strong style="color:#1e90ff">UbiComp</strong>), 2025.
+  <br>
+  <a href="https://dl.acm.org/doi/10.1145/3749456" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <br>
+  </li>
+
+
+  <li><strong>Facial Landmark Detection based on High Precision Spatial Sampling via Millimeter-wave Radar.</strong>
+  <br>
+  Yi Li, Chuyu Wang, Lei Xie, Qiancheng Jin, Long Fan, <strong>Jingyi Ning</strong>, Sanglu Lu.
+  <br>
+  Proceedings of the ACM on Interactive, Mobile,Wearable and Ubiquitous Technologies (IMWUT), 2025, 8(4): 1-26. (<strong style="color:#1e90ff">UbiComp</strong>), 2025.
+  <br>
+  <a href="https://dl.acm.org/doi/10.1145/3699739" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <br>
+  </li>
+
+
   <li><strong>MoiréVision: A Generalized Moiré-based Mechanism for 6-DoF Motion Sensing.</strong>
   <br>
   <strong>Jingyi Ning</strong>, Lei Xie, Zhihao Yan, Yanling Bu, Jun Luo.
   <br>
-  In Proceedings of the 30th Annual International Conference on Mobile Computing and Networking, (<strong style="color:#1e90ff">MobiCom</strong>),  2024. 
+  In Proceedings of the 30th Annual International Conference on Mobile Computing and Networking (<strong style="color:#1e90ff">MobiCom</strong>),  2024. 
   <br>
-   <a href="https://dl.acm.org/doi/10.1145/3636534.3649374" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <a href="https://dl.acm.org/doi/10.1145/3636534.3649374" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
   <br>
   </li>
+
 
   <li><strong>MoiréVib: Micron-level Vibration Detection based on-Moiré Pattern.</strong>
   <br>
   <strong>Jingyi Ning*</strong>, Zhihao Yan*, Zhaowei Wu, Lei Xie, Chuyu Wang, Yingying Chen, Baoliu Ye, Sanglu Lu.
   <br>
-  In Proceedings of the 30th Annual International Conference on Mobile Computing and Networking, (<strong style="color:#1e90ff">MobiCom</strong>),  2024. 
+  In Proceedings of the 30th Annual International Conference on Mobile Computing and Networking (<strong style="color:#1e90ff">MobiCom</strong>),  2024. 
   <br>
-   <a href="" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <a href="https://dl.acm.org/doi/10.1145/3636534.3690700" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
   <br>
   </li>
+
+
+  <li><strong>LED Can Backscatter: Multi-Modal based 3D Localization via LED-tag.</strong>
+  <br>
+  Shiyuan Ma, Lei Xie, Chuyu Wang, Long Fan, <strong>Jingyi Ning</strong>, Qing Guo, Baoliu Ye, Sanglu Lu.
+  <br>
+  In Proceeding of IEEE International Conference on Distributed Computing Systems (<strong style="color:#1e90ff">ICDCS</strong>), 2024. 
+  <br>
+  <a href="https://ieeexplore.ieee.org/document/10630964" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <br>
+  </li>
+
 
   <li><strong>Continual Learning with Pre-Trained Models: A Survey.</strong>
   <br>
@@ -70,37 +124,25 @@ layout: singlecol
   <br>
   </li>
 
-
-
- <li><strong>LED Can Backscatter: Multi-Modal based 3D Localization via LED-tag.</strong>
-  <br>
-  Shiyuan Ma, Lei Xie, Chuyu Wang, Long Fan, <strong>Jingyi Ning</strong>, Qing Guo, Baoliu Ye, Sanglu Lu.
-  <br>
-  In Proceeding of IEEE International Conference on Distributed Computing Systems (<strong style="color:#1e90ff">ICDCS</strong>), 2024. 
-  <br>
-   <a href="https://ieeexplore.ieee.org/document/10630964" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
-  <br>
-  </li>
-
-
+  
   <li><strong>mmEavesdropper: Signal Augmentation-based Directional Eavesdropping with mm-Wave Radar.</strong>
   <br>
-    Yiwen Feng, Kai Zhang, Chuyu Wang, Lei Xie, <strong>Jingyi Ning</strong>, Shijia Chen.
+  Yiwen Feng, Kai Zhang, Chuyu Wang, Lei Xie, <strong>Jingyi Ning</strong>, Shijia Chen.
   <br>
-    In Proceeding of IEEE International Conference on Computer Communications (<strong style="color:#1e90ff">INFOCOM</strong>), 2023. 
+  In Proceeding of IEEE International Conference on Computer Communications (<strong style="color:#1e90ff">INFOCOM</strong>), 2023. 
   <br>
-   <a href="https://ieeexplore.ieee.org/document/10229095" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <a href="https://ieeexplore.ieee.org/document/10229095" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
   <br>
   </li>
 
 
-   <li><strong>PalmEcho: Multimodal Authentication for Smartwatch via Beating Gestures.</strong>
+  <li><strong>PalmEcho: Multimodal Authentication for Smartwatch via Beating Gestures.</strong>
   <br>
-    Qing Guo, Gaolei Duan, Lei Xie, <strong>Jingyi Ning</strong>, Chuyu Wang, Baoliu Ye, Sanglu Lu. 
+  Qing Guo, Gaolei Duan, Lei Xie, <strong>Jingyi Ning</strong>, Chuyu Wang, Baoliu Ye, Sanglu Lu. 
   <br>
-   In Proceeding of 20th Annual IEEE International Conference on Sensing, Communication, and Networking (<strong style="color:#1e90ff">SECON</strong>), 2023. 
+  In Proceeding of 20th Annual IEEE International Conference on Sensing, Communication, and Networking (<strong style="color:#1e90ff">SECON</strong>), 2023. 
   <br>
-   <a href="https://ieeexplore.ieee.org/document/10287520" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <a href="https://ieeexplore.ieee.org/document/10287520" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
   <br>
   </li>
 
@@ -111,40 +153,40 @@ layout: singlecol
   <br>
   In Proceedings of the 28th Annual International Conference on Mobile Computing and Networking (<strong style="color:#1e90ff">MobiCom</strong>),  2022. 
   <br>
-   <a href="https://dl.acm.org/doi/abs/10.1145/3495243.3560537" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <a href="https://dl.acm.org/doi/abs/10.1145/3495243.3560537" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
   <br>
   </li>
 
 
   <li><strong>RF-Protractor: Non-Contacting Angle Tracking via COTS RFID in Industrial IoT Environment.</strong>
   <br>
-   Tingjun Liu, Chuyu Wang, Lei Xie, <strong>Jingyi Ning</strong>, Tie Qiu, Fu Xiao, Sanglu Lu.
+  Tingjun Liu, Chuyu Wang, Lei Xie, <strong>Jingyi Ning</strong>, Tie Qiu, Fu Xiao, Sanglu Lu.
   <br>
   In Proceeding of IEEE International Conference on Computer Communications (<strong style="color:#1e90ff">INFOCOM</strong>), 2022. 
   <br>
-   <a href="https://ieeexplore.ieee.org/document/9796839" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <a href="https://ieeexplore.ieee.org/document/9796839" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
   <br>
   </li>
 
 
 <li><strong>Edge-Cloud Collaboration for Human Activity Recognition on Multiple Subjects.</strong>
   <br>
-   Wenjing Xiao, Lei Xie, <strong>Jingyi Ning</strong>, Ziyu Fu, Ming Zhao, Zhenjie Lin, Qiang Lin.
+  Wenjing Xiao, Lei Xie, <strong>Jingyi Ning</strong>, Ziyu Fu, Ming Zhao, Zhenjie Lin, Qiang Lin.
   <br>
   In Proceeding of IEEE 23rd International Symposium on a World of Wireless, Mobile and Multimedia Networks (<strong style="color:#1e90ff">WoWMoM</strong>), 2022. 
   <br>
-   <a href="https://ieeexplore.ieee.org/document/9842793" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <a href="https://ieeexplore.ieee.org/document/9842793" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
   <br>
   </li>
 
 
   <li><strong>Handwriting-Assistant: Capture Handwriting with Millimeter-level Accuracy via Attachable Inertial Sensors.</strong>
   <br>
-    Yanling Bu, Lei Xie, Yafeng Yin, Chuyu Wang, <strong>Jingyi Ning</strong>, Jiannong Cao, Sanglu Lu.
+  Yanling Bu, Lei Xie, Yafeng Yin, Chuyu Wang, <strong>Jingyi Ning</strong>, Jiannong Cao, Sanglu Lu.
   <br>
-    In Proceedings of the ACM on Interactive, Mobile,Wearable and Ubiquitous Technologies (IMWUT), 2021, 5(4): 1-25. (<strong style="color:#1e90ff">UbiComp</strong>), 2021.
+  In Proceedings of the ACM on Interactive, Mobile,Wearable and Ubiquitous Technologies (IMWUT), 2021, 5(4): 1-25. (<strong style="color:#1e90ff">UbiComp</strong>), 2021.
   <br>
-   <a href="https://dl.acm.org/doi/10.1145/3494956" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <a href="https://dl.acm.org/doi/10.1145/3494956" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
   <br>
   </li>
 
@@ -156,7 +198,7 @@ layout: singlecol
   <br>
   In Proceeding of International Conference on Computer Communications and Networks, (<strong style="color:#1e90ff">ICCCN</strong>),  2020. 
   <br>
-   <a href="https://ieeexplore.ieee.org/document/9209644" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <a href="https://ieeexplore.ieee.org/document/9209644" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
   <br>
   </li>
 
@@ -169,6 +211,37 @@ layout: singlecol
 
 
 <ol>
+
+  <li><strong>BoneSE: Bone Conduction-Assisted Speech Enhancement Based on COTS Earphone.</strong>
+  <br>
+  Qing Guo, Long Fan, Lei Xie, <strong>Jingyi Ning</strong>, Baoliu Ye, and Sanglu Lu.
+  <br>
+  IEEE Transactions on Mobile Computing (<strong style="color:#1e90ff">TMC</strong>),  2026. 
+  <!-- <br>
+   <a href="" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <br> -->
+  </li>
+
+  <li><strong>Multi-Modal based 3D Localization via the Channel Adjustment LED-tag.</strong>
+  <br>
+  Shiyuan Ma, Lei Xie, Chuyu Wang, Yanling Bu, Long Fan, <strong>Jingyi Ning</strong>, Qing Guo, Baoliu Ye, Sanglu Lu.
+  <br>
+  IEEE Transactions on Mobile Computing (<strong style="color:#1e90ff">TMC</strong>),  2025. 
+  <!-- <br>
+   <a href="" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <br> -->
+  </li>
+
+
+
+  <li><strong>Learning without Forgetting for Vision-Language Models.</strong>
+  <br>
+  Da-Wei Zhou, Yuanhan Zhang, Yan Wang, <strong>Jingyi Ning</strong>, Han-Jia Ye, De-Chuan Zhan, Ziwei Liu.
+  <br>
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong style="color:#1e90ff">TPAMI</strong>), 2025.
+  </li>
+
+
 
   <li><strong>MoiréTracker: Continuous Camera-to-Screen 6-DoF Pose Tracking based on Moiré Pattern.</strong>
   <br>
@@ -187,7 +260,7 @@ layout: singlecol
   <br>
   ACM Transactions on Computing for Healthcare (<strong style="color:#1e90ff">TCH</strong>), 2024. 
   <br>
-   <a href="https://dl.acm.org/doi/abs/10.1145/3691355" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <a href="https://dl.acm.org/doi/abs/10.1145/3691355" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
   <br>
   </li>
 
@@ -209,7 +282,7 @@ layout: singlecol
   <br>
   ACM Transactions on Sensor Networks (<strong style="color:#1e90ff">TOSN</strong>),  18(2): 1-29 (2022). 
   <br>
-   <a href="https://dl.acm.org/doi/10.1145/3490171" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <a href="https://dl.acm.org/doi/10.1145/3490171" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
   <br>
   </li>
 
