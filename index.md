@@ -17,6 +17,7 @@ I am looking for highly self-motivated students. Please drop me an email with yo
 
 ## News
 <div class="container custom-scrollbar" style="height:400px;width:103%;overflow:auto;">
+  <li>[2026-02] One paper is accepted by <a href="" target="_blank">IEEE TMC</a>.</li>
   <li>[2025-12] Two papers are accepted by <a href="" target="_blank">IEEE INFOCOM 2026</a>.</li>
   <li>[2025-12] Awarded the Outstanding Doctoral Dissertation Award from the Jiangsu Computer Society.</li>
   <li>[2025-11] One paper is accepted by <a href="" target="_blank">IEEE TMC</a>.</li>

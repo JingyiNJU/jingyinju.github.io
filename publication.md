@@ -124,7 +124,7 @@ layout: singlecol
   <br>
   </li>
 
-  
+
   <li><strong>mmEavesdropper: Signal Augmentation-based Directional Eavesdropping with mm-Wave Radar.</strong>
   <br>
   Yiwen Feng, Kai Zhang, Chuyu Wang, Lei Xie, <strong>Jingyi Ning</strong>, Shijia Chen.
@@ -212,24 +212,36 @@ layout: singlecol
 
 <ol>
 
+  <li><strong>CoSense: Bridging Real-Time Performance and Fine-Grained Detail in mmWave Sensing.</strong>
+  <br>
+  Long Fan, Lei Xie, Shiyuan Ma, <strong>Jingyi Ning</strong>, Chuyu Wang, Wenhui Zhou, Jun Luo.
+  <br>
+  IEEE Transactions on Mobile Computing (<strong style="color:#1e90ff">TMC</strong>),  2026. 
+  <br>
+  <a href="https://ieeexplore.ieee.org/abstract/document/11407475" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <br>
+  </li>
+
+
   <li><strong>BoneSE: Bone Conduction-Assisted Speech Enhancement Based on COTS Earphone.</strong>
   <br>
   Qing Guo, Long Fan, Lei Xie, <strong>Jingyi Ning</strong>, Baoliu Ye, and Sanglu Lu.
   <br>
   IEEE Transactions on Mobile Computing (<strong style="color:#1e90ff">TMC</strong>),  2026. 
-  <!-- <br>
-   <a href="" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
-  <br> -->
+  <br>
+  <a href="https://ieeexplore.ieee.org/abstract/document/11269743" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <br>
   </li>
+
 
   <li><strong>Multi-Modal based 3D Localization via the Channel Adjustment LED-tag.</strong>
   <br>
   Shiyuan Ma, Lei Xie, Chuyu Wang, Yanling Bu, Long Fan, <strong>Jingyi Ning</strong>, Qing Guo, Baoliu Ye, Sanglu Lu.
   <br>
   IEEE Transactions on Mobile Computing (<strong style="color:#1e90ff">TMC</strong>),  2025. 
-  <!-- <br>
-   <a href="" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
-  <br> -->
+  <br>
+  <a href="https://ieeexplore.ieee.org/abstract/document/11086415" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <br>
   </li>
 
 
@@ -239,8 +251,11 @@ layout: singlecol
   Da-Wei Zhou, Yuanhan Zhang, Yan Wang, <strong>Jingyi Ning</strong>, Han-Jia Ye, De-Chuan Zhan, Ziwei Liu.
   <br>
   IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong style="color:#1e90ff">TPAMI</strong>), 2025.
+  <br>
+  <a href="https://ieeexplore.ieee.org/abstract/document/10882940" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <br>
   </li>
-
+  
 
 
   <li><strong>MoiréTracker: Continuous Camera-to-Screen 6-DoF Pose Tracking based on Moiré Pattern.</strong>
