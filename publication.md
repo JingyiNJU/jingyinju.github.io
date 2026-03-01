@@ -12,24 +12,6 @@ layout: singlecol
 
 *: Equal contributions; &nbsp; <i class="fa-regular fa-envelope fa-xs"></i>: Corresponding author.
 
-<!--
-### Preprints
-
-<ol>
-
- 
-  <li><strong>Learning without Forgetting for Vision-Language Models</strong>
-  <br>
-  <strong>Da-Wei Zhou</strong>, Yuanhan Zhang, Jingyi Ning, Han-Jia Ye, De-Chuan Zhan, Ziwei Liu
-  <br>
- arXiv 2023.
-  <br>
-  <a href="https://arxiv.org/abs/2305.19270" target="_blank">Paper</a> &nbsp;  &nbsp;  &nbsp; 
-  <br>
-  </li>
-
-  
-</ol> -->
 
 
 ### Conference Paper
@@ -39,7 +21,7 @@ layout: singlecol
 
   <li><strong>Large-Field-of-View Measurement of Fabric Density Based on Moiré Pattern for Industrial IoT.</strong>
   <br>
-  Zhaowei Wu, <strong>Jingyi Ning</strong><i class="fa-regular fa-envelope fa-xs"></i>, Zhihao Yan, Jialu Xu, Lei Xie.
+  Zhaowei Wu, <strong>Jingyi Ning<i class="fa-regular fa-envelope fa-xs"></i></strong>, Zhihao Yan, Jialu Xu, Lei Xie.
   <br>
   Accepted to appear in Proceeding of IEEE International Conference on Computer Communications (<strong style="color:#1e90ff">INFOCOM</strong>),  2026. 
   <!-- <br>
@@ -78,6 +60,17 @@ layout: singlecol
   <a href="https://dl.acm.org/doi/10.1145/3699739" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
   <br>
   </li>
+
+
+  <!-- <li><strong>基于摩尔纹视觉的超高精度脉搏监测.</strong>
+  <br>
+  22.	冯烨聪、<strong>宁静仪<i class="fa-regular fa-envelope fa-xs"></i></strong>、闫志豪、吴兆伟、卜艳玲、谢磊.
+  <br>
+  第二十一届全国普适计算学术会议 (<strong style="color:#1e90ff">PCC</strong>), 2025. (<strong style="color:#1e90ff">最佳论文奖</strong>)
+  <br>
+  <a href="" target="_blank">Paper</a>
+  <br>
+  </li> -->
 
 
   <li><strong>MoiréVision: A Generalized Moiré-based Mechanism for 6-DoF Motion Sensing.</strong>
@@ -302,15 +295,25 @@ layout: singlecol
   </li>
 
 
+  <li><strong>探索视觉感知新范式：基于摩尔纹视觉的超高精度空间感知.</strong>
+  <br>
+  23.	谢磊，<strong>宁静仪<i class="fa-regular fa-envelope fa-xs"></i></strong>，闫志豪，王楚豫. 
+  <br>
+  中国计算机学会会刊《计算》，2025 年 5 月, 第 1 卷 第 1 期，ISSN 2097-6461. 
+  <!-- <br>
+  <a href="" target="_blank">Paper</a>
+  <br> -->
+  </li>
+
  
   <li><strong>感算控一体化赋能工业互联网精准智能制造.</strong>
   <br>
   谢磊，王楚豫，<strong>宁静仪</strong>，朱善迎.
   <br>
   中国计算机学会通讯 (CCCF). 第 20 卷，第 9 期，2024.
-  <br>
+  <!-- <br>
   <a href="" target="_blank">Paper</a>
-  <br>
+  <br> -->
   </li>
 
 
@@ -319,9 +322,9 @@ layout: singlecol
   谢磊，王楚豫，卜艳玲，<strong>宁静仪</strong>，陆桑璐.
   <br>
   中国计算机学会通讯 (CCCF). 第 17 卷，第 2 期，2021.
-  <br>
+  <!-- <br>
   <a href="" target="_blank">Paper</a>
-  <br>
+  <br> -->
   </li>
 
 

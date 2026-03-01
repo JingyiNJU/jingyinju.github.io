@@ -19,7 +19,7 @@ I am looking for highly self-motivated students. Please drop me an email with yo
 <div class="container custom-scrollbar" style="height:400px;width:103%;overflow:auto;">
   <li>[2026-02] One paper is accepted by <a href="" target="_blank">IEEE TMC</a>.</li>
   <li>[2025-12] Two papers are accepted by <a href="" target="_blank">IEEE INFOCOM 2026</a>.</li>
-  <li>[2025-12] Awarded the Outstanding Doctoral Dissertation Award from the Jiangsu Computer Society.</li>
+  <li>[2025-12] Awarded the Outstanding Doctoral Dissertation Award from the Jiangsu Computer Society (江苏省计算机学会优博).</li>
   <li>[2025-11] One paper is accepted by <a href="" target="_blank">IEEE TMC</a>.</li>
   <li>[2025-10] Awarded the ACM China Outstanding Doctoral Dissertation Award <span style="color:#e92020">(2025 ACM 中国优博,全国仅2人)</span>.</li>
   <li>[2025-09] Awarded ACM SIGBED China Outstanding Doctoral Dissertation Award.</li>
@@ -59,6 +59,24 @@ For more details, please view the <a href="./publication.html">full publication 
 <ol class="bibliography">
 
 
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <img src="file/teaser/Dense.png" class="teaser img-fluid z-depth-1" />
+      <abbr class="badge">INFOCOM</abbr>
+    </div>
+    <div id="memo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Large-Field-of-View Measurement of Fabric Density Based on Moiré Pattern for Industrial IoT.</div>
+    <div class="author">Zhaowei Wu, <strong>Jingyi Ning<i class="fa-regular fa-envelope fa-xs"></i></strong>, Zhihao Yan, Jialu Xu, Lei Xie.</div>
+    <div class="periodical"><em>Accepted to appear in Proceeding of IEEE International Conference on Computer Communications. <strong><i style="color:#1e90ff">INFOCOM 2026</i></strong>. </em> 
+    </div>
+    <!-- [<a href="https://dl.acm.org/doi/10.1145/3636534.3690700" target="_blank">Paper</a>]  -->
+  <br />
+    </div>
+  </div>
+</li>
+
+
 
 <li>
   <div class="pub-row">
@@ -71,11 +89,12 @@ For more details, please view the <a href="./publication.html">full publication 
     <div class="author"><strong>Jingyi Ning</strong>, Zhihao Yan, Zhaowei Wu, Lei Xie, Chuyu Wang, Yingying Chen, Baoliu Ye and Sanglu Lu.</div>
     <div class="periodical"><em>In Proceeding of the 30th Annual International Conference on Mobile Computing and Networking. <strong><i style="color:#1e90ff">MobiCom 2024</i></strong>. </em> 
     </div>
-   [<a href="" target="_blank">Paper</a>] 
+   [<a href="https://dl.acm.org/doi/10.1145/3636534.3690700" target="_blank">Paper</a>] 
   <br />
     </div>
   </div>
 </li>
+
 
 
 <li>
