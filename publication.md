@@ -22,7 +22,7 @@ layout: singlecol
   <br>
   Zhaowei Wu, <strong>Jingyi Ning<i class="fa-regular fa-envelope fa-xs"></i></strong>, Yanling Bu, Lei Xie.
   <br>
-  Accepted to appear in Proceeding of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2025. (<strong style="color:#1e90ff">UbiComp</strong>), 2026. 
+  Accepted to appear in Proceeding of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2026. (<strong style="color:#1e90ff">UbiComp</strong>), 2026. 
   <!-- <br>
   <a href="" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
   <br> -->
