@@ -58,6 +58,22 @@ For more details, please view the <a href="./publication.html">full publication 
 <div class="publications">
 <ol class="bibliography">
 
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <img src="file/teaser/Mobile.png" class="teaser img-fluid z-depth-1" />
+      <abbr class="badge">UbiComp</abbr>
+    </div>
+    <div id="memo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+    <div class="title">MoiréMop: Lightweight and Pervasive Moiré Removal for Mobile Camera-to-Screen Interaction.</div>
+    <div class="author">Zhaowei Wu, <strong>Jingyi Ning<i class="fa-regular fa-envelope fa-xs"></i></strong>, Yanling Bu, Lei Xie.</div>
+    <div class="periodical"><em>Accepted to Appear in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT). <strong><i style="color:#1e90ff">UbiComp 2026</i></strong>. </em> 
+    </div>
+    <!-- [<a href="https://dl.acm.org/doi/10.1145/3636534.3690700" target="_blank">Paper</a>]  -->
+  <br />
+    </div>
+  </div>
+</li>
 
 <li>
   <div class="pub-row">
@@ -68,7 +84,7 @@ For more details, please view the <a href="./publication.html">full publication 
     <div id="memo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title">Large-Field-of-View Measurement of Fabric Density Based on Moiré Pattern for Industrial IoT.</div>
     <div class="author">Zhaowei Wu, <strong>Jingyi Ning<i class="fa-regular fa-envelope fa-xs"></i></strong>, Zhihao Yan, Jialu Xu, Lei Xie.</div>
-    <div class="periodical"><em>Accepted to appear in Proceeding of IEEE International Conference on Computer Communications. <strong><i style="color:#1e90ff">INFOCOM 2026</i></strong>. </em> 
+    <div class="periodical"><em>Accepted to Appear in Proceedings of IEEE International Conference on Computer Communications. <strong><i style="color:#1e90ff">INFOCOM 2026</i></strong>. </em> 
     </div>
     <!-- [<a href="https://dl.acm.org/doi/10.1145/3636534.3690700" target="_blank">Paper</a>]  -->
   <br />
@@ -87,7 +103,7 @@ For more details, please view the <a href="./publication.html">full publication 
     <div id="memo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title">MoiréVib: Micron-level Vibration Detection based on Moiré Pattern.</div>
     <div class="author"><strong>Jingyi Ning</strong>, Zhihao Yan, Zhaowei Wu, Lei Xie, Chuyu Wang, Yingying Chen, Baoliu Ye and Sanglu Lu.</div>
-    <div class="periodical"><em>In Proceeding of the 30th Annual International Conference on Mobile Computing and Networking. <strong><i style="color:#1e90ff">MobiCom 2024</i></strong>. </em> 
+    <div class="periodical"><em>In Proceedings of the 30th Annual International Conference on Mobile Computing and Networking. <strong><i style="color:#1e90ff">MobiCom 2024</i></strong>. </em> 
     </div>
    [<a href="https://dl.acm.org/doi/10.1145/3636534.3690700" target="_blank">Paper</a>] 
   <br />
@@ -106,7 +122,7 @@ For more details, please view the <a href="./publication.html">full publication 
     <div id="memo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title">MoiréVision: A Generalized Moiré-based Mechanism for 6-DoF Motion Sensing.</div>
     <div class="author"><strong>Jingyi Ning</strong>, Lei Xie, Zhihao Yan, Yanling Bu, and Jun Luo.</div>
-    <div class="periodical"><em>In Proceeding of the 30th Annual International Conference on Mobile Computing and Networking. <strong><i style="color:#1e90ff">MobiCom 2024</i></strong>. </em> 
+    <div class="periodical"><em>In Proceedings of the 30th Annual International Conference on Mobile Computing and Networking. <strong><i style="color:#1e90ff">MobiCom 2024</i></strong>. </em> 
     </div>
    [<a href="https://dl.acm.org/doi/10.1145/3636534.3649374" target="_blank">Paper</a>] 
   <br />
@@ -123,7 +139,7 @@ For more details, please view the <a href="./publication.html">full publication 
   <div id="memo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
   <div class="title">MoiréPose: Ultra High Precision Camera-to-Screen Pose Estimation based on Moiré Pattern</div>
   <div class="author"><strong>Jingyi Ning</strong>, Lei Xie, Yi Li, Yingying Chen, Yanling Bu, Baoliu Ye, and Sanglu Lu.</div>
-  <div class="periodical"><em>In Proceeding of the 28th Annual International Conference on Mobile Computing and Networking. <strong><i style="color:#1e90ff">MobiCom 2022</i></strong>. </em> 
+  <div class="periodical"><em>In Proceedings of the 28th Annual International Conference on Mobile Computing and Networking. <strong><i style="color:#1e90ff">MobiCom 2022</i></strong>. </em> 
   </div>
   [<a href="https://dl.acm.org/doi/abs/10.1145/3495243.3560537" target="_blank">Paper</a>] 
   <br />

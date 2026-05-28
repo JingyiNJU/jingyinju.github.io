@@ -18,12 +18,21 @@ layout: singlecol
 
 <ol>  
 
+  <li><strong>MoiréMop: Lightweight and Pervasive Moiré Removal for Mobile Camera-to-Screen Interaction.</strong>
+  <br>
+  Zhaowei Wu, <strong>Jingyi Ning<i class="fa-regular fa-envelope fa-xs"></i></strong>, Yanling Bu, Lei Xie.
+  <br>
+  Accepted to appear in Proceeding of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2025. (<strong style="color:#1e90ff">UbiComp</strong>), 2026. 
+  <!-- <br>
+  <a href="" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <br> -->
+  </li>
 
   <li><strong>Large-Field-of-View Measurement of Fabric Density Based on Moiré Pattern for Industrial IoT.</strong>
   <br>
   Zhaowei Wu, <strong>Jingyi Ning<i class="fa-regular fa-envelope fa-xs"></i></strong>, Zhihao Yan, Jialu Xu, Lei Xie.
   <br>
-  Accepted to appear in Proceeding of IEEE International Conference on Computer Communications (<strong style="color:#1e90ff">INFOCOM</strong>),  2026. 
+  Accepted to appear in Proceeding of IEEE International Conference on Computer Communications (<strong style="color:#1e90ff">INFOCOM</strong>), 2026. 
   <!-- <br>
   <a href="" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
   <br> -->
@@ -33,7 +42,7 @@ layout: singlecol
   <br>
   Wenhui Zhou, Lei Xie, <strong>Jingyi Ning</strong>, Shuyu Cao, Hao Wu, Qinghua Peng and Long Fan. 
   <br>
-  Accepted to appear in Proceeding of IEEE International Conference on Computer Communications (<strong style="color:#1e90ff">INFOCOM</strong>),  2026. 
+  Accepted to appear in Proceeding of IEEE International Conference on Computer Communications (<strong style="color:#1e90ff">INFOCOM</strong>), 2026. 
   <!-- <br>
    <a href="" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
   <br> -->
@@ -61,6 +70,15 @@ layout: singlecol
   <br>
   </li>
 
+  <li><strong>External Knowledge Injection for CLIP-Based Class-Incremental Learning. International Conference on Computer Vision.</strong>
+  <br>
+  19.Da-Wei Zhou, Kai-Wen Li, <strong>Jingyi Ning</strong>, Han-Jia Ye, Lijun Zhang, De-Chuan Zhan. 
+  <br>
+  International Conference on Computer Vision (<strong style="color:#1e90ff">ICCV</strong>), 2025.
+  <!-- <br>
+  <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_External_Knowledge_Injection_for_CLIP-Based_Class-Incremental_Learning_ICCV_2025_paper.pdf" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
+  <br> -->
+  </li>
 
   <!-- <li><strong>基于摩尔纹视觉的超高精度脉搏监测.</strong>
   <br>
