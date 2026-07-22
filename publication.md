@@ -70,7 +70,7 @@ layout: singlecol
   <br>
   </li>
 
-  <li><strong>External Knowledge Injection for CLIP-Based Class-Incremental Learning. International Conference on Computer Vision.</strong>
+  <li><strong>External Knowledge Injection for CLIP-Based Class-Incremental Learning.</strong>
   <br>
   Da-Wei Zhou, Kai-Wen Li, <strong>Jingyi Ning</strong>, Han-Jia Ye, Lijun Zhang, De-Chuan Zhan. 
   <br>
