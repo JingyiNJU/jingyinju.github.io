@@ -72,7 +72,7 @@ layout: singlecol
 
   <li><strong>External Knowledge Injection for CLIP-Based Class-Incremental Learning. International Conference on Computer Vision.</strong>
   <br>
-  19.Da-Wei Zhou, Kai-Wen Li, <strong>Jingyi Ning</strong>, Han-Jia Ye, Lijun Zhang, De-Chuan Zhan. 
+  Da-Wei Zhou, Kai-Wen Li, <strong>Jingyi Ning</strong>, Han-Jia Ye, Lijun Zhang, De-Chuan Zhan. 
   <br>
   International Conference on Computer Vision (<strong style="color:#1e90ff">ICCV</strong>), 2025.
   <!-- <br>
@@ -315,7 +315,7 @@ layout: singlecol
 
   <li><strong>探索视觉感知新范式：基于摩尔纹视觉的超高精度空间感知.</strong>
   <br>
-  23.	谢磊，<strong>宁静仪<i class="fa-regular fa-envelope fa-xs"></i></strong>，闫志豪，王楚豫. 
+  谢磊，<strong>宁静仪<i class="fa-regular fa-envelope fa-xs"></i></strong>，闫志豪，王楚豫. 
   <br>
   中国计算机学会会刊《计算》，2025 年 5 月, 第 1 卷 第 1 期，ISSN 2097-6461. 
   <!-- <br>
