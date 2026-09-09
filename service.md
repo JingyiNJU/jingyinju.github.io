@@ -5,10 +5,13 @@ layout: singlecol
 
 ## Service
 - Web Chair of UbiComp 2026.
-- Executive Committee, CCF Technical Committee of Pervasive Computing (CCF TCPC).
+- Local Chair of GPC 2026.
+- Executive Committee Member: CCF Technical Committee of Pervasive Computing (CCF TCPC), ACM SIGBED China Chapter.
+
+## Program Committee Member
+- MSN, ICCCN, AIoTSys, MASS.
 
 ## Reviewer
-
 - Contributed reviews to TMC, UbiComp, INFOCOM, MobiSys, Sensys, TOSN, ICDCS, Middleware, UIC, etc.
 
 <!-- ## Teaching -->
