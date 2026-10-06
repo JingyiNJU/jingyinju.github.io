@@ -200,7 +200,7 @@ For more details, please view the <a href="./publication.html">full publication 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="file/teaser/tosn.png" class="teaser img-fluid z-depth-1" />
+    <img src="file/teaser/TOSN.png" class="teaser img-fluid z-depth-1" />
     <abbr class="badge">TOSN</abbr>
   </div>
   <div id="limit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
