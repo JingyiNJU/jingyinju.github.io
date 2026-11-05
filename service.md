@@ -12,7 +12,7 @@ layout: singlecol
 - MSN, ICCCN, AIoTSys, MASS.
 
 ## Reviewer
-- Contributed reviews to TMC, UbiComp, INFOCOM, MobiSys, Sensys, TOSN, ICDCS, Middleware, UIC, etc.
+- Contributed reviews to MobiCom, UbiComp, INFOCOM, MobiSys, Sensys, TMC, TOSN, ICDCS, Middleware, UIC, etc.
 
 <!-- ## Teaching -->
 
@@ -36,8 +36,8 @@ layout: singlecol
 <!-- - [2021-11] Advanced Team in Innovation and Entrepreneurship of Nanjing University. -->
 
 
-## Competitions
+## Research Projects
 
-- [2020-10] China Collegiate Computing Competition - Network Technology Challenge， **National First Prize** 
-- [2021-11] The 7th China International “Internet+” Competition, Industrial Track, **First Prize of Jiangsu Province** 
+- National Natural Science Foundation of China, Young Scientists Fund (Category C), “Research on Ultra-High-Precision Spatial Sensing Mechanisms Based on Moir´e Vision,” 2025–2027.
+- Basic Research Program of Jiangsu Province (Natural Science Foundation), Young Scientists Program, “Precision Visual Sensing Mechanisms for Intelligent Manufacturing in the Industrial Internet,” 2025–2027. 
 

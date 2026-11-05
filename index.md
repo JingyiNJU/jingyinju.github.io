@@ -64,6 +64,42 @@ For more details, please view the <a href="./publication.html">full publication 
 <li>
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <img src="file/teaser/Measure.png" class="teaser img-fluid z-depth-1" />
+      <abbr class="badge">SenSys</abbr>
+    </div>
+    <div id="memo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">MoiréMeasure: High-Precision 3D Surface Measurement with Large Field of View based on Moiré Pattern.</div>
+      <div class="author">Zhihao Yan, <strong>Jingyi Ning</strong>, Yaping Lin, Lei Xie.</div>
+      <div class="periodical"><em>Accepted to appear in Proceedings of the International Conference on Embedded Artificial Intelligence and Sensing Systems. <strong><i style="color:#1e90ff">SenSys 2027</i></strong>. </em>
+      </div>
+      <!-- [<a href="" target="_blank">Paper</a>] -->
+      <br />
+    </div>
+  </div>
+</li>
+
+
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <img src="file/teaser/Vib2.png" class="teaser img-fluid z-depth-1" />
+      <abbr class="badge">ToN</abbr>
+    </div>
+    <div id="memo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">MoiréVib<sup>2</sup>: Full-Field Vibration Sensing based on Moiré Pattern for Industrial IoT.</div>
+      <div class="author">Zhihao Yan*, <strong>Jingyi Ning*</strong>, Zhaowei Wu, Lei Xie, Chuyu Wang, Shiyuan Ma, Yingying Chen, Baoliu Ye, Sanglu Lu.</div>
+      <div class="periodical"><em>IEEE Transactions on Networking. <strong><i style="color:#1e90ff">ToN 2026</i></strong>. </em>
+      </div>
+      [<a href="https://ieeexplore.ieee.org/document/11763712" target="_blank">Paper</a>]
+      <br />
+    </div>
+  </div>
+</li>
+
+
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
       <img src="file/teaser/Mobile.png" class="teaser img-fluid z-depth-1" />
       <abbr class="badge">UbiComp</abbr>
     </div>
@@ -72,7 +108,7 @@ For more details, please view the <a href="./publication.html">full publication 
     <div class="author">Zhaowei Wu, <strong>Jingyi Ning<i class="fa-regular fa-envelope fa-xs"></i></strong>, Yanling Bu, Lei Xie.</div>
     <div class="periodical"><em>Accepted to Appear in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT). <strong><i style="color:#1e90ff">UbiComp 2026</i></strong>. </em> 
     </div>
-    <!-- [<a href="https://dl.acm.org/doi/10.1145/3636534.3690700" target="_blank">Paper</a>]  -->
+    [<a href="https://dl.acm.org/doi/10.1145/3810197" target="_blank">Paper</a>] 
   <br />
     </div>
   </div>
@@ -89,7 +125,7 @@ For more details, please view the <a href="./publication.html">full publication 
     <div class="author">Zhaowei Wu, <strong>Jingyi Ning<i class="fa-regular fa-envelope fa-xs"></i></strong>, Zhihao Yan, Jialu Xu, Lei Xie.</div>
     <div class="periodical"><em>Accepted to Appear in Proceedings of IEEE International Conference on Computer Communications. <strong><i style="color:#1e90ff">INFOCOM 2026</i></strong>. </em> 
     </div>
-    <!-- [<a href="https://dl.acm.org/doi/10.1145/3636534.3690700" target="_blank">Paper</a>]  -->
+    [<a href="https://ieeexplore.ieee.org/document/11571269" target="_blank">Paper</a>] 
   <br />
     </div>
   </div>

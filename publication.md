@@ -6,6 +6,10 @@ layout: singlecol
 ol {
     list-style-type: none;
 }
+
+ol li {
+    margin-bottom: 0.7em;
+}
 </style>
 
 <!-- ## Full Publication by Year -->
@@ -24,18 +28,12 @@ ol {
 
 <ol>
 
-<li><strong>MoiréVib<sup>2</sup>: Full-Field Vibration Sensing based on Moiré Pattern for Industrial IoT.</strong>
-<br>
-Zhihao Yan*, <strong>Jingyi Ning*</strong>, Zhaowei Wu, Lei Xie, Chuyu Wang, Shiyuan Ma, Yingying Chen, Baoliu Ye, Sanglu Lu.
-<br>
-Accepted to appear in IEEE Transactions on Networking (<strong style="color:#1e90ff">ToN</strong>), 2027.
-</li>
 
 <li><strong>MoiréMeasure: High-Precision 3D Surface Measurement with Large Field of View based on Moiré Pattern.</strong>
 <br>
 Zhihao Yan, <strong>Jingyi Ning</strong>, Yaping Lin, Lei Xie.
 <br>
-In Proceedings of the International Conference on Embedded Artificial Intelligence and Sensing Systems (<strong style="color:#1e90ff">SenSys</strong>), 2027.
+Accepted to appear in Proceedings of the International Conference on Embedded Artificial Intelligence and Sensing Systems (<strong style="color:#1e90ff">SenSys</strong>), 2027.
 </li>
 
 </ol>
@@ -44,6 +42,16 @@ In Proceedings of the International Conference on Embedded Artificial Intelligen
 ### 2026
 
 <ol>
+
+<li><strong>MoiréVib<sup>2</sup>: Full-Field Vibration Sensing based on Moiré Pattern for Industrial IoT.</strong>
+<br>
+Zhihao Yan*, <strong>Jingyi Ning*</strong>, Zhaowei Wu, Lei Xie, Chuyu Wang, Shiyuan Ma, Yingying Chen, Baoliu Ye, Sanglu Lu.
+<br>
+IEEE Transactions on Networking (<strong style="color:#1e90ff">ToN</strong>), 2026.
+<br>
+<a href="https://ieeexplore.ieee.org/document/11763712" target="_blank">Paper</a>&nbsp; &nbsp; &nbsp;
+<br>
+</li>
 
 <li><strong>MoiréMop: Lightweight and Pervasive Moiré Removal for Mobile Camera-to-Screen Interaction.</strong>
 <br>
