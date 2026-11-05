@@ -2,6 +2,17 @@
 layout: homepage
 ---
 
+<style>
+.publications .title {
+    color: #0b2f7c;
+}
+
+.publications ol.bibliography > li {
+    margin-bottom: 25px;
+}
+</style>
+
+
 ## Short Bio
 
 I am an Assistant Researcher (2024-) in the [School of Computer Science](https://cs.nju.edu.cn/main.htm) at [Nanjing University](http://www.nju.edu.cn/).  
@@ -55,9 +66,7 @@ For more details, please view the <a href="./publication.html">full publication 
 
 
 
-
-
-### Conference Paper
+<!-- ### Conference Paper -->
 <div class="publications">
 <ol class="bibliography">
 
@@ -141,7 +150,7 @@ For more details, please view the <a href="./publication.html">full publication 
     </div>
     <div id="memo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title">MoiréVib: Micron-level Vibration Detection based on Moiré Pattern.</div>
-    <div class="author"><strong>Jingyi Ning</strong>, Zhihao Yan, Zhaowei Wu, Lei Xie, Chuyu Wang, Yingying Chen, Baoliu Ye and Sanglu Lu.</div>
+    <div class="author"><strong>Jingyi Ning*</strong>, Zhihao Yan*, Zhaowei Wu, Lei Xie, Chuyu Wang, Yingying Chen, Baoliu Ye and Sanglu Lu.</div>
     <div class="periodical"><em>In Proceedings of the 30th Annual International Conference on Mobile Computing and Networking. <strong><i style="color:#1e90ff">MobiCom 2024</i></strong>. </em> 
     </div>
    [<a href="https://dl.acm.org/doi/10.1145/3636534.3690700" target="_blank">Paper</a>] 
@@ -169,35 +178,6 @@ For more details, please view the <a href="./publication.html">full publication 
   </div>
 </li>
 
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="file/teaser/Pose.png" class="teaser img-fluid z-depth-1" />
-    <abbr class="badge">MobiCom</abbr>
-  </div>
-  <div id="memo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-  <div class="title">MoiréPose: Ultra High Precision Camera-to-Screen Pose Estimation based on Moiré Pattern</div>
-  <div class="author"><strong>Jingyi Ning</strong>, Lei Xie, Yi Li, Yingying Chen, Yanling Bu, Baoliu Ye, and Sanglu Lu.</div>
-  <div class="periodical"><em>In Proceedings of the 28th Annual International Conference on Mobile Computing and Networking. <strong><i style="color:#1e90ff">MobiCom 2022</i></strong>. </em> 
-  </div>
-  [<a href="https://dl.acm.org/doi/abs/10.1145/3495243.3560537" target="_blank">Paper</a>] 
-  <br />
-  </div>
-</div>
-</li>
-
-
-
-
-</ol>
-</div>
-
-
-### Journal Article
-<div class="publications">
-<ol class="bibliography">
-
-
 
 <li>
 <div class="pub-row">
@@ -221,6 +201,24 @@ For more details, please view the <a href="./publication.html">full publication 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="file/teaser/Pose.png" class="teaser img-fluid z-depth-1" />
+    <abbr class="badge">MobiCom</abbr>
+  </div>
+  <div id="memo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="title">MoiréPose: Ultra High Precision Camera-to-Screen Pose Estimation based on Moiré Pattern</div>
+  <div class="author"><strong>Jingyi Ning</strong>, Lei Xie, Yi Li, Yingying Chen, Yanling Bu, Baoliu Ye, and Sanglu Lu.</div>
+  <div class="periodical"><em>In Proceedings of the 28th Annual International Conference on Mobile Computing and Networking. <strong><i style="color:#1e90ff">MobiCom 2022</i></strong>. </em> 
+  </div>
+  [<a href="https://dl.acm.org/doi/abs/10.1145/3495243.3560537" target="_blank">Paper</a>] 
+  <br />
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="file/teaser/Badge.png" class="teaser img-fluid z-depth-1" />
     <abbr class="badge">TMC</abbr>
   </div>
@@ -234,6 +232,7 @@ For more details, please view the <a href="./publication.html">full publication 
   </div>
 </div>
 </li>
+
 
 <li>
 <div class="pub-row">
@@ -252,12 +251,13 @@ For more details, please view the <a href="./publication.html">full publication 
 </div>
 </li>
 
-  
-
 
 
 </ol>
+
 </div>
+
+
 
 
 <!-- ## Contact
