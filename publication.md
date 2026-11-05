@@ -2,6 +2,11 @@
 layout: singlecol
 ---
 
+<style>
+ol {
+    list-style-type: none;
+}
+</style>
 
 <!-- ## Full Publication by Year -->
 <!-- <a href="./index.html" target="_blank">Back to Homepage</a> -->
