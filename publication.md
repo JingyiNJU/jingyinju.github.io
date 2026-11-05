@@ -1,352 +1,377 @@
+
 ---
 layout: singlecol
 ---
 
-<!-- ## Full Publication by Year  -->
-<!-- <a href="./index.html" target="_blank">Back to Homepage</a>  -->
-## Publications 
-<!-- <a href="https://scholar.google.com.hk/citations?user=mvCXu8MAAAAJ&hl=en" target="_blank">[Google Scholar]</a> -->
+<style>
+ol {
+    list-style-type: none;
+}
+</style>
+
+<!-- ## Full Publication by Year -->
+<!-- <a href="./index.html" target="_blank">Back to Homepage</a> -->
+
+## Publications
+
+<!-- <a href="https://scholar.google.com.hk/citations?user=mvCXu8MAAAAJ&hl=en" target="_blank">Google Scholar</a> -->
 
 <!-- <a href="index.html#lcinc">page jump</a> -->
-
 
 *: Equal contributions; &nbsp; <i class="fa-regular fa-envelope fa-xs"></i>: Corresponding author.
 
 
-
-### Conference Paper
-
-<ol>  
-
-  <li><strong>MoiréMop: Lightweight and Pervasive Moiré Removal for Mobile Camera-to-Screen Interaction.</strong>
-  <br>
-  Zhaowei Wu, <strong>Jingyi Ning<i class="fa-regular fa-envelope fa-xs"></i></strong>, Yanling Bu, Lei Xie.
-  <br>
-  Accepted to appear in Proceeding of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2026. (<strong style="color:#1e90ff">UbiComp</strong>), 2026. 
-  <!-- <br>
-  <a href="" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
-  <br> -->
-  </li>
-
-  <li><strong>Large-Field-of-View Measurement of Fabric Density Based on Moiré Pattern for Industrial IoT.</strong>
-  <br>
-  Zhaowei Wu, <strong>Jingyi Ning<i class="fa-regular fa-envelope fa-xs"></i></strong>, Zhihao Yan, Jialu Xu, Lei Xie.
-  <br>
-  Accepted to appear in Proceeding of IEEE International Conference on Computer Communications (<strong style="color:#1e90ff">INFOCOM</strong>), 2026. 
-  <!-- <br>
-  <a href="" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
-  <br> -->
-  </li>
-
-  <li><strong>Tackling the Imbalance in Video Analytics Pipelines with Hierarchical Embodied Intelligence.</strong>
-  <br>
-  Wenhui Zhou, Lei Xie, <strong>Jingyi Ning</strong>, Shuyu Cao, Hao Wu, Qinghua Peng and Long Fan. 
-  <br>
-  Accepted to appear in Proceeding of IEEE International Conference on Computer Communications (<strong style="color:#1e90ff">INFOCOM</strong>), 2026. 
-  <!-- <br>
-   <a href="" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
-  <br> -->
-  </li>
-
-
-  <li><strong>SPECal: Spatial Calibration Based on Self-Pose-Estimation Between mmWave Radar and Camera.</strong>
-  <br>
-  Yi Li, Lei Xie, Yu He, <strong>Jingyi Ning</strong>, Sanglu Lu.
-  <br>
-  Proceedings of the ACM on Interactive, Mobile,Wearable and Ubiquitous Technologies (IMWUT), 2025, 9(3): 1-26. (<strong style="color:#1e90ff">UbiComp</strong>), 2025.
-  <br>
-  <a href="https://dl.acm.org/doi/10.1145/3749456" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
-  <br>
-  </li>
-
-
-  <li><strong>Facial Landmark Detection based on High Precision Spatial Sampling via Millimeter-wave Radar.</strong>
-  <br>
-  Yi Li, Chuyu Wang, Lei Xie, Qiancheng Jin, Long Fan, <strong>Jingyi Ning</strong>, Sanglu Lu.
-  <br>
-  Proceedings of the ACM on Interactive, Mobile,Wearable and Ubiquitous Technologies (IMWUT), 2025, 8(4): 1-26. (<strong style="color:#1e90ff">UbiComp</strong>), 2025.
-  <br>
-  <a href="https://dl.acm.org/doi/10.1145/3699739" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
-  <br>
-  </li>
-
-  <li><strong>External Knowledge Injection for CLIP-Based Class-Incremental Learning.</strong>
-  <br>
-  Da-Wei Zhou, Kai-Wen Li, <strong>Jingyi Ning</strong>, Han-Jia Ye, Lijun Zhang, De-Chuan Zhan. 
-  <br>
-  International Conference on Computer Vision (<strong style="color:#1e90ff">ICCV</strong>), 2025.
-  <!-- <br>
-  <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_External_Knowledge_Injection_for_CLIP-Based_Class-Incremental_Learning_ICCV_2025_paper.pdf" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
-  <br> -->
-  </li>
-
-  <!-- <li><strong>基于摩尔纹视觉的超高精度脉搏监测.</strong>
-  <br>
-  22.	冯烨聪、<strong>宁静仪<i class="fa-regular fa-envelope fa-xs"></i></strong>、闫志豪、吴兆伟、卜艳玲、谢磊.
-  <br>
-  第二十一届全国普适计算学术会议 (<strong style="color:#1e90ff">PCC</strong>), 2025. (<strong style="color:#1e90ff">最佳论文奖</strong>)
-  <br>
-  <a href="" target="_blank">Paper</a>
-  <br>
-  </li> -->
-
-
-  <li><strong>MoiréVision: A Generalized Moiré-based Mechanism for 6-DoF Motion Sensing.</strong>
-  <br>
-  <strong>Jingyi Ning</strong>, Lei Xie, Zhihao Yan, Yanling Bu, Jun Luo.
-  <br>
-  In Proceedings of the 30th Annual International Conference on Mobile Computing and Networking (<strong style="color:#1e90ff">MobiCom</strong>),  2024. 
-  <br>
-  <a href="https://dl.acm.org/doi/10.1145/3636534.3649374" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
-  <br>
-  </li>
-
-
-  <li><strong>MoiréVib: Micron-level Vibration Detection based on-Moiré Pattern.</strong>
-  <br>
-  <strong>Jingyi Ning*</strong>, Zhihao Yan*, Zhaowei Wu, Lei Xie, Chuyu Wang, Yingying Chen, Baoliu Ye, Sanglu Lu.
-  <br>
-  In Proceedings of the 30th Annual International Conference on Mobile Computing and Networking (<strong style="color:#1e90ff">MobiCom</strong>),  2024. 
-  <br>
-  <a href="https://dl.acm.org/doi/10.1145/3636534.3690700" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
-  <br>
-  </li>
-
-
-  <li><strong>LED Can Backscatter: Multi-Modal based 3D Localization via LED-tag.</strong>
-  <br>
-  Shiyuan Ma, Lei Xie, Chuyu Wang, Long Fan, <strong>Jingyi Ning</strong>, Qing Guo, Baoliu Ye, Sanglu Lu.
-  <br>
-  In Proceeding of IEEE International Conference on Distributed Computing Systems (<strong style="color:#1e90ff">ICDCS</strong>), 2024. 
-  <br>
-  <a href="https://ieeexplore.ieee.org/document/10630964" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
-  <br>
-  </li>
-
-
-  <li><strong>Continual Learning with Pre-Trained Models: A Survey.</strong>
-  <br>
-  Da-Wei Zhou, Hai-Long Sun, <strong>Jingyi Ning</strong>, Han-Jia Ye, De-Chuan Zhan.
-  <br>
-  The 33rd International Joint Conference on Artificial Intelligence (<strong style="color:#1e90ff">IJCAI</strong>),  2024. 
-  <br>
-  <a href="https://arxiv.org/abs/2401.16386" target="_blank">Paper</a> &nbsp;  &nbsp;  &nbsp; 
-  <a href="https://github.com/sun-hailong/LAMDA-PILOT" target="_blank">Code</a>
-  <br>
-  </li>
-
-
-  <li><strong>mmEavesdropper: Signal Augmentation-based Directional Eavesdropping with mm-Wave Radar.</strong>
-  <br>
-  Yiwen Feng, Kai Zhang, Chuyu Wang, Lei Xie, <strong>Jingyi Ning</strong>, Shijia Chen.
-  <br>
-  In Proceeding of IEEE International Conference on Computer Communications (<strong style="color:#1e90ff">INFOCOM</strong>), 2023. 
-  <br>
-  <a href="https://ieeexplore.ieee.org/document/10229095" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
-  <br>
-  </li>
-
-
-  <li><strong>PalmEcho: Multimodal Authentication for Smartwatch via Beating Gestures.</strong>
-  <br>
-  Qing Guo, Gaolei Duan, Lei Xie, <strong>Jingyi Ning</strong>, Chuyu Wang, Baoliu Ye, Sanglu Lu. 
-  <br>
-  In Proceeding of 20th Annual IEEE International Conference on Sensing, Communication, and Networking (<strong style="color:#1e90ff">SECON</strong>), 2023. 
-  <br>
-  <a href="https://ieeexplore.ieee.org/document/10287520" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
-  <br>
-  </li>
-
-
-  <li><strong>MoiréPose: Ultra High Precision Camera-to-Screen Pose Estimation based on Moiré Pattern.</strong>
-  <br>
-  <strong>Jingyi Ning</strong>, Lei Xie, Yi Li, Yingying Chen, Yanling Bu, Baoliu Ye, Sanglu Lu.
-  <br>
-  In Proceedings of the 28th Annual International Conference on Mobile Computing and Networking (<strong style="color:#1e90ff">MobiCom</strong>),  2022. 
-  <br>
-  <a href="https://dl.acm.org/doi/abs/10.1145/3495243.3560537" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
-  <br>
-  </li>
-
-
-  <li><strong>RF-Protractor: Non-Contacting Angle Tracking via COTS RFID in Industrial IoT Environment.</strong>
-  <br>
-  Tingjun Liu, Chuyu Wang, Lei Xie, <strong>Jingyi Ning</strong>, Tie Qiu, Fu Xiao, Sanglu Lu.
-  <br>
-  In Proceeding of IEEE International Conference on Computer Communications (<strong style="color:#1e90ff">INFOCOM</strong>), 2022. 
-  <br>
-  <a href="https://ieeexplore.ieee.org/document/9796839" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
-  <br>
-  </li>
-
-
-<li><strong>Edge-Cloud Collaboration for Human Activity Recognition on Multiple Subjects.</strong>
-  <br>
-  Wenjing Xiao, Lei Xie, <strong>Jingyi Ning</strong>, Ziyu Fu, Ming Zhao, Zhenjie Lin, Qiang Lin.
-  <br>
-  In Proceeding of IEEE 23rd International Symposium on a World of Wireless, Mobile and Multimedia Networks (<strong style="color:#1e90ff">WoWMoM</strong>), 2022. 
-  <br>
-  <a href="https://ieeexplore.ieee.org/document/9842793" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
-  <br>
-  </li>
-
-
-  <li><strong>Handwriting-Assistant: Capture Handwriting with Millimeter-level Accuracy via Attachable Inertial Sensors.</strong>
-  <br>
-  Yanling Bu, Lei Xie, Yafeng Yin, Chuyu Wang, <strong>Jingyi Ning</strong>, Jiannong Cao, Sanglu Lu.
-  <br>
-  In Proceedings of the ACM on Interactive, Mobile,Wearable and Ubiquitous Technologies (IMWUT), 2021, 5(4): 1-25. (<strong style="color:#1e90ff">UbiComp</strong>), 2021.
-  <br>
-  <a href="https://dl.acm.org/doi/10.1145/3494956" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
-  <br>
-  </li>
-
-
-
-  <li><strong>RFDetector: Internal 3D Structure Detection of Logistics Packages via RFID Systems.</strong>
-  <br>
-  <strong>Jingyi Ning</strong>, Lei Xie, Chuyu Wang, Yanling Bu, Baoliu Ye, Sanglu Lu.
-  <br>
-  In Proceeding of International Conference on Computer Communications and Networks, (<strong style="color:#1e90ff">ICCCN</strong>),  2020. 
-  <br>
-  <a href="https://ieeexplore.ieee.org/document/9209644" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
-  <br>
-  </li>
-
-  
-
-</ol>
-
-
-### Journal Article
-
+### 2027
 
 <ol>
 
-  <li><strong>CoSense: Bridging Real-Time Performance and Fine-Grained Detail in mmWave Sensing.</strong>
-  <br>
-  Long Fan, Lei Xie, Shiyuan Ma, <strong>Jingyi Ning</strong>, Chuyu Wang, Wenhui Zhou, Jun Luo.
-  <br>
-  IEEE Transactions on Mobile Computing (<strong style="color:#1e90ff">TMC</strong>),  2026. 
-  <br>
-  <a href="https://ieeexplore.ieee.org/abstract/document/11407475" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
-  <br>
-  </li>
+<li><strong>MoiréVib<sup>2</sup>: Full-Field Vibration Sensing based on Moiré Pattern for Industrial IoT.</strong>
+<br>
+Zhihao Yan*, <strong>Jingyi Ning*</strong>, Zhaowei Wu, Lei Xie, Chuyu Wang, Shiyuan Ma, Yingying Chen, Baoliu Ye, Sanglu Lu.
+<br>
+Accepted to appear in IEEE Transactions on Networking (<strong style="color:#1e90ff">ToN</strong>), 2027.
+</li>
 
+<li><strong>MoiréMeasure: High-Precision 3D Surface Measurement with Large Field of View based on Moiré Pattern.</strong>
+<br>
+Zhihao Yan, <strong>Jingyi Ning</strong>, Yaping Lin, Lei Xie.
+<br>
+In Proceedings of the International Conference on Embedded Artificial Intelligence and Sensing Systems (<strong style="color:#1e90ff">SenSys</strong>), 2027.
+</li>
 
-  <li><strong>BoneSE: Bone Conduction-Assisted Speech Enhancement Based on COTS Earphone.</strong>
-  <br>
-  Qing Guo, Long Fan, Lei Xie, <strong>Jingyi Ning</strong>, Baoliu Ye, and Sanglu Lu.
-  <br>
-  IEEE Transactions on Mobile Computing (<strong style="color:#1e90ff">TMC</strong>),  2026. 
-  <br>
-  <a href="https://ieeexplore.ieee.org/abstract/document/11269743" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
-  <br>
-  </li>
-
-
-  <li><strong>Multi-Modal based 3D Localization via the Channel Adjustment LED-tag.</strong>
-  <br>
-  Shiyuan Ma, Lei Xie, Chuyu Wang, Yanling Bu, Long Fan, <strong>Jingyi Ning</strong>, Qing Guo, Baoliu Ye, Sanglu Lu.
-  <br>
-  IEEE Transactions on Mobile Computing (<strong style="color:#1e90ff">TMC</strong>),  2025. 
-  <br>
-  <a href="https://ieeexplore.ieee.org/abstract/document/11086415" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
-  <br>
-  </li>
-
-
-
-  <li><strong>Learning without Forgetting for Vision-Language Models.</strong>
-  <br>
-  Da-Wei Zhou, Yuanhan Zhang, Yan Wang, <strong>Jingyi Ning</strong>, Han-Jia Ye, De-Chuan Zhan, Ziwei Liu.
-  <br>
-  IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong style="color:#1e90ff">TPAMI</strong>), 2025.
-  <br>
-  <a href="https://ieeexplore.ieee.org/abstract/document/10882940" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
-  <br>
-  </li>
-  
-
-
-  <li><strong>MoiréTracker: Continuous Camera-to-Screen 6-DoF Pose Tracking based on Moiré Pattern.</strong>
-  <br>
-  <strong>Jingyi Ning</strong>, Lei Xie, Yi Li, Yingying Chen, Yanling Bu, Chuyu Wang, Sanglu Lu, Baoliu Ye.
-  <br>
-  IEEE Journal on Selected Areas in Communications (<strong style="color:#1e90ff">JSAC</strong>),  2024. 
-  <br>
-   <a href="https://ieeexplore.ieee.org/document/10557737" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
-  <br>
-  </li>
-
-
-  <li><strong>Heart Rate Variability Estimation based on RFID Tag-Pair in Dynamic Environments.</strong>
-  <br>
-  Jiaying Wu, Chuyu Wang, Dongxu Huang, <strong>Jingyi Ning</strong>, Lei Xie.
-  <br>
-  ACM Transactions on Computing for Healthcare (<strong style="color:#1e90ff">TCH</strong>), 2024. 
-  <br>
-  <a href="https://dl.acm.org/doi/abs/10.1145/3691355" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
-  <br>
-  </li>
-
-
-  <li><strong>RF-Badge: Vital Sign-based Authentication via RFID Tag Array on Badges.</strong>
-  <br>
-  <strong>Jingyi Ning</strong>, Lei Xie, Chuyu Wang, Yanling Bu, Fengyuan Xu, Da-Wei Zhou, Baoliu Ye, Sanglu Lu.
-  <br>
-  IEEE Transactions on Mobile Computing  (<strong style="color:#1e90ff">TMC</strong>), 22(2): 1170 - 1184 (2023).
-  <br>
-  <a href="https://ieeexplore.ieee.org/document/9490377" target="_blank">Paper</a>
-  <br>
-  </li>
-
-
-  <li><strong>Revolving Scanning on Tagged Objects: 3D Structure Detection of Logistics Packages via RFID systems.</strong>
-  <br>
-  <strong>Jingyi Ning</strong>, Lei Xie, Chuyu Wang, Yanling Bu, Fu Xiao, Baoliu Ye, Sanglu Lu.
-  <br>
-  ACM Transactions on Sensor Networks (<strong style="color:#1e90ff">TOSN</strong>),  18(2): 1-29 (2022). 
-  <br>
-  <a href="https://dl.acm.org/doi/10.1145/3490171" target="_blank">Paper</a>&nbsp;  &nbsp;  &nbsp;  
-  <br>
-  </li>
-
-
-  <li><strong>探索视觉感知新范式：基于摩尔纹视觉的超高精度空间感知.</strong>
-  <br>
-  谢磊，<strong>宁静仪<i class="fa-regular fa-envelope fa-xs"></i></strong>，闫志豪，王楚豫. 
-  <br>
-  中国计算机学会会刊《计算》，2025 年 5 月, 第 1 卷 第 1 期，ISSN 2097-6461. 
-  <!-- <br>
-  <a href="" target="_blank">Paper</a>
-  <br> -->
-  </li>
-
- 
-  <li><strong>感算控一体化赋能工业互联网精准智能制造.</strong>
-  <br>
-  谢磊，王楚豫，<strong>宁静仪</strong>，朱善迎.
-  <br>
-  中国计算机学会通讯 (CCCF). 第 20 卷，第 9 期，2024.
-  <!-- <br>
-  <a href="" target="_blank">Paper</a>
-  <br> -->
-  </li>
-
-
-  <li><strong>从“识别”到“感知”：基于RFID的可标记无源感知.</strong>
-  <br>
-  谢磊，王楚豫，卜艳玲，<strong>宁静仪</strong>，陆桑璐.
-  <br>
-  中国计算机学会通讯 (CCCF). 第 17 卷，第 2 期，2021.
-  <!-- <br>
-  <a href="" target="_blank">Paper</a>
-  <br> -->
-  </li>
-
-
-  
 </ol>
 
 
+### 2026
+
+<ol>
+
+<li><strong>MoiréMop: Lightweight and Pervasive Moiré Removal for Mobile Camera-to-Screen Interaction.</strong>
+<br>
+Zhaowei Wu, <strong>Jingyi Ning<i class="fa-regular fa-envelope fa-xs"></i></strong>, Yanling Bu, Lei Xie.
+<br>
+Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2026. (<strong style="color:#1e90ff">UbiComp</strong>), 2026.
+<br>
+<a href="https://dl.acm.org/doi/10.1145/3810197" target="_blank">Paper</a>&nbsp; &nbsp; &nbsp;
+<br>
+</li>
+
+<li><strong>Large-Field-of-View Measurement of Fabric Density Based on Moiré Pattern for Industrial IoT.</strong>
+<br>
+Zhaowei Wu, <strong>Jingyi Ning<i class="fa-regular fa-envelope fa-xs"></i></strong>, Zhihao Yan, Jialu Xu, Lei Xie.
+<br>
+In Proceedings of IEEE International Conference on Computer Communications (<strong style="color:#1e90ff">INFOCOM</strong>), 2026.
+<br>
+<a href="https://doi.org/10.1109/INFOCOM59046.2026.11571269" target="_blank">Paper</a>&nbsp; &nbsp; &nbsp;
+<br>
+</li>
+
+<li><strong>Tackling the Imbalance in Video Analytics Pipelines with Hierarchical Embodied Intelligence.</strong>
+<br>
+Wenhui Zhou, Lei Xie, <strong>Jingyi Ning</strong>, Shuyu Cao, Hao Wu, Qinghua Peng and Long Fan.
+<br>
+In Proceedings of IEEE International Conference on Computer Communications (<strong style="color:#1e90ff">INFOCOM</strong>), 2026.
+<br>
+<a href="https://doi.org/10.1109/INFOCOM59046.2026.11571610" target="_blank">Paper</a>&nbsp; &nbsp; &nbsp;
+<br>
+</li>
+
+<li><strong>CoSense: Bridging Real-Time Performance and Fine-Grained Detail in mmWave Sensing.</strong>
+<br>
+Long Fan, Lei Xie, Shiyuan Ma, <strong>Jingyi Ning</strong>, Chuyu Wang, Wenhui Zhou, Jun Luo.
+<br>
+IEEE Transactions on Mobile Computing (<strong style="color:#1e90ff">TMC</strong>), 2026.
+<br>
+<a href="https://ieeexplore.ieee.org/abstract/document/11407475" target="_blank">Paper</a>&nbsp; &nbsp; &nbsp;
+<br>
+</li>
+
+<li><strong>BoneSE: Bone Conduction-Assisted Speech Enhancement Based on COTS Earphone.</strong>
+<br>
+Qing Guo, Long Fan, Lei Xie, <strong>Jingyi Ning</strong>, Baoliu Ye, and Sanglu Lu.
+<br>
+IEEE Transactions on Mobile Computing (<strong style="color:#1e90ff">TMC</strong>), 2026.
+<br>
+<a href="https://ieeexplore.ieee.org/abstract/document/11269743" target="_blank">Paper</a>&nbsp; &nbsp; &nbsp;
+<br>
+</li>
+
+</ol>
+
+
+### 2025
+
+<ol>
+
+<li><strong>SPECal: Spatial Calibration Based on Self-Pose-Estimation Between mmWave Radar and Camera.</strong>
+<br>
+Yi Li, Lei Xie, Yu He, <strong>Jingyi Ning</strong>, Sanglu Lu.
+<br>
+Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2025, 9(3): 1-26. (<strong style="color:#1e90ff">UbiComp</strong>), 2025.
+<br>
+<a href="https://dl.acm.org/doi/10.1145/3749456" target="_blank">Paper</a>&nbsp; &nbsp; &nbsp;
+<br>
+</li>
+
+<li><strong>Facial Landmark Detection based on High Precision Spatial Sampling via Millimeter-wave Radar.</strong>
+<br>
+Yi Li, Chuyu Wang, Lei Xie, Qiancheng Jin, Long Fan, <strong>Jingyi Ning</strong>, Sanglu Lu.
+<br>
+Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2025, 8(4): 1-26. (<strong style="color:#1e90ff">UbiComp</strong>), 2025.
+<br>
+<a href="https://dl.acm.org/doi/10.1145/3699739" target="_blank">Paper</a>&nbsp; &nbsp; &nbsp;
+<br>
+</li>
+
+<li><strong>External Knowledge Injection for CLIP-Based Class-Incremental Learning.</strong>
+<br>
+Da-Wei Zhou, Kai-Wen Li, <strong>Jingyi Ning</strong>, Han-Jia Ye, Lijun Zhang, De-Chuan Zhan.
+<br>
+International Conference on Computer Vision (<strong style="color:#1e90ff">ICCV</strong>), 2025.
+<!--
+<br>
+<a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_External_Knowledge_Injection_for_CLIP-Based_Class-Incremental_Learning_ICCV_2025_paper.pdf" target="_blank">Paper</a>&nbsp; &nbsp; &nbsp;
+<br>
+-->
+</li>
+
+<li><strong>Multi-Modal based 3D Localization via the Channel Adjustment LED-tag.</strong>
+<br>
+Shiyuan Ma, Lei Xie, Chuyu Wang, Yanling Bu, Long Fan, <strong>Jingyi Ning</strong>, Qing Guo, Baoliu Ye, Sanglu Lu.
+<br>
+IEEE Transactions on Mobile Computing (<strong style="color:#1e90ff">TMC</strong>), 2025.
+<br>
+<a href="https://ieeexplore.ieee.org/abstract/document/11086415" target="_blank">Paper</a>&nbsp; &nbsp; &nbsp;
+<br>
+</li>
+
+<li><strong>Learning without Forgetting for Vision-Language Models.</strong>
+<br>
+Da-Wei Zhou, Yuanhan Zhang, Yan Wang, <strong>Jingyi Ning</strong>, Han-Jia Ye, De-Chuan Zhan, Ziwei Liu.
+<br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong style="color:#1e90ff">TPAMI</strong>), 2025.
+<br>
+<a href="https://ieeexplore.ieee.org/abstract/document/10882940" target="_blank">Paper</a>&nbsp; &nbsp; &nbsp;
+<br>
+</li>
+
+<li><strong>探索视觉感知新范式：基于摩尔纹视觉的超高精度空间感知.</strong>
+<br>
+谢磊，<strong>宁静仪<i class="fa-regular fa-envelope fa-xs"></i></strong>，闫志豪，王楚豫.
+<br>
+中国计算机学会会刊《计算》，2025 年 5 月, 第 1 卷 第 1 期，ISSN 2097-6461.
+</li>
+
+<!--
+<li><strong>基于摩尔纹视觉的超高精度脉搏监测.</strong>
+<br>
+冯烨聪、<strong>宁静仪<i class="fa-regular fa-envelope fa-xs"></i></strong>、闫志豪、吴兆伟、卜艳玲、谢磊.
+<br>
+第二十一届全国普适计算学术会议 (<strong style="color:#1e90ff">PCC</strong>), 2025. (<strong style="color:#1e90ff">最佳论文奖</strong>)
+<br>
+<a href="" target="_blank">Paper</a>
+<br>
+</li>
+-->
+
+</ol>
+
+
+### 2024
+
+<ol>
+
+<li><strong>MoiréVision: A Generalized Moiré-based Mechanism for 6-DoF Motion Sensing.</strong>
+<br>
+<strong>Jingyi Ning</strong>, Lei Xie, Zhihao Yan, Yanling Bu, Jun Luo.
+<br>
+In Proceedings of the 30th Annual International Conference on Mobile Computing and Networking (<strong style="color:#1e90ff">MobiCom</strong>), 2024.
+<br>
+<a href="https://dl.acm.org/doi/10.1145/3636534.3649374" target="_blank">Paper</a>&nbsp; &nbsp; &nbsp;
+<br>
+</li>
+
+<li><strong>MoiréVib: Micron-level Vibration Detection based on-Moiré Pattern.</strong>
+<br>
+<strong>Jingyi Ning*</strong>, Zhihao Yan*, Zhaowei Wu, Lei Xie, Chuyu Wang, Yingying Chen, Baoliu Ye, Sanglu Lu.
+<br>
+In Proceedings of the 30th Annual International Conference on Mobile Computing and Networking (<strong style="color:#1e90ff">MobiCom</strong>), 2024.
+<br>
+<a href="https://dl.acm.org/doi/10.1145/3636534.3690700" target="_blank">Paper</a>&nbsp; &nbsp; &nbsp;
+<br>
+</li>
+
+<li><strong>LED Can Backscatter: Multi-Modal based 3D Localization via LED-tag.</strong>
+<br>
+Shiyuan Ma, Lei Xie, Chuyu Wang, Long Fan, <strong>Jingyi Ning</strong>, Qing Guo, Baoliu Ye, Sanglu Lu.
+<br>
+In Proceeding of IEEE International Conference on Distributed Computing Systems (<strong style="color:#1e90ff">ICDCS</strong>), 2024.
+<br>
+<a href="https://ieeexplore.ieee.org/document/10630964" target="_blank">Paper</a>&nbsp; &nbsp; &nbsp;
+<br>
+</li>
+
+<li><strong>Continual Learning with Pre-Trained Models: A Survey.</strong>
+<br>
+Da-Wei Zhou, Hai-Long Sun, <strong>Jingyi Ning</strong>, Han-Jia Ye, De-Chuan Zhan.
+<br>
+The 33rd International Joint Conference on Artificial Intelligence (<strong style="color:#1e90ff">IJCAI</strong>), 2024.
+<br>
+<a href="https://arxiv.org/abs/2401.16386" target="_blank">Paper</a>&nbsp; &nbsp; &nbsp;
+<a href="https://github.com/sun-hailong/LAMDA-PILOT" target="_blank">Code</a>
+<br>
+</li>
+
+<li><strong>MoiréTracker: Continuous Camera-to-Screen 6-DoF Pose Tracking based on Moiré Pattern.</strong>
+<br>
+<strong>Jingyi Ning</strong>, Lei Xie, Yi Li, Yingying Chen, Yanling Bu, Chuyu Wang, Sanglu Lu, Baoliu Ye.
+<br>
+IEEE Journal on Selected Areas in Communications (<strong style="color:#1e90ff">JSAC</strong>), 2024.
+<br>
+<a href="https://ieeexplore.ieee.org/document/10557737" target="_blank">Paper</a>&nbsp; &nbsp; &nbsp;
+<br>
+</li>
+
+<li><strong>Heart Rate Variability Estimation based on RFID Tag-Pair in Dynamic Environments.</strong>
+<br>
+Jiaying Wu, Chuyu Wang, Dongxu Huang, <strong>Jingyi Ning</strong>, Lei Xie.
+<br>
+ACM Transactions on Computing for Healthcare (<strong style="color:#1e90ff">TCH</strong>), 2024.
+<br>
+<a href="https://dl.acm.org/doi/abs/10.1145/3691355" target="_blank">Paper</a>&nbsp; &nbsp; &nbsp;
+<br>
+</li>
+
+<li><strong>感算控一体化赋能工业互联网精准智能制造.</strong>
+<br>
+谢磊，王楚豫，<strong>宁静仪</strong>，朱善迎.
+<br>
+中国计算机学会通讯 (CCCF). 第 20 卷，第 9 期，2024.
+</li>
+
+</ol>
+
+
+### 2023
+
+<ol>
+
+<li><strong>mmEavesdropper: Signal Augmentation-based Directional Eavesdropping with mm-Wave Radar.</strong>
+<br>
+Yiwen Feng, Kai Zhang, Chuyu Wang, Lei Xie, <strong>Jingyi Ning</strong>, Shijia Chen.
+<br>
+In Proceeding of IEEE International Conference on Computer Communications (<strong style="color:#1e90ff">INFOCOM</strong>), 2023.
+<br>
+<a href="https://ieeexplore.ieee.org/document/10229095" target="_blank">Paper</a>&nbsp; &nbsp; &nbsp;
+<br>
+</li>
+
+<li><strong>PalmEcho: Multimodal Authentication for Smartwatch via Beating Gestures.</strong>
+<br>
+Qing Guo, Gaolei Duan, Lei Xie, <strong>Jingyi Ning</strong>, Chuyu Wang, Baoliu Ye, Sanglu Lu.
+<br>
+In Proceeding of 20th Annual IEEE International Conference on Sensing, Communication, and Networking (<strong style="color:#1e90ff">SECON</strong>), 2023.
+<br>
+<a href="https://ieeexplore.ieee.org/document/10287520" target="_blank">Paper</a>&nbsp; &nbsp; &nbsp;
+<br>
+</li>
+
+<li><strong>RF-Badge: Vital Sign-based Authentication via RFID Tag Array on Badges.</strong>
+<br>
+<strong>Jingyi Ning</strong>, Lei Xie, Chuyu Wang, Yanling Bu, Fengyuan Xu, Da-Wei Zhou, Baoliu Ye, Sanglu Lu.
+<br>
+IEEE Transactions on Mobile Computing (<strong style="color:#1e90ff">TMC</strong>), 22(2): 1170 - 1184 (2023).
+<br>
+<a href="https://ieeexplore.ieee.org/document/9490377" target="_blank">Paper</a>
+<br>
+</li>
+
+</ol>
+
+
+### 2022
+
+<ol>
+
+<li><strong>MoiréPose: Ultra High Precision Camera-to-Screen Pose Estimation based on Moiré Pattern.</strong>
+<br>
+<strong>Jingyi Ning</strong>, Lei Xie, Yi Li, Yingying Chen, Yanling Bu, Baoliu Ye, Sanglu Lu.
+<br>
+In Proceedings of the 28th Annual International Conference on Mobile Computing and Networking (<strong style="color:#1e90ff">MobiCom</strong>), 2022.
+<br>
+<a href="https://dl.acm.org/doi/abs/10.1145/3495243.3560537" target="_blank">Paper</a>&nbsp; &nbsp; &nbsp;
+<br>
+</li>
+
+<li><strong>RF-Protractor: Non-Contacting Angle Tracking via COTS RFID in Industrial IoT Environment.</strong>
+<br>
+Tingjun Liu, Chuyu Wang, Lei Xie, <strong>Jingyi Ning</strong>, Tie Qiu, Fu Xiao, Sanglu Lu.
+<br>
+In Proceeding of IEEE International Conference on Computer Communications (<strong style="color:#1e90ff">INFOCOM</strong>), 2022.
+<br>
+<a href="https://ieeexplore.ieee.org/document/9796839" target="_blank">Paper</a>&nbsp; &nbsp; &nbsp;
+<br>
+</li>
+
+<li><strong>Edge-Cloud Collaboration for Human Activity Recognition on Multiple Subjects.</strong>
+<br>
+Wenjing Xiao, Lei Xie, <strong>Jingyi Ning</strong>, Ziyu Fu, Ming Zhao, Zhenjie Lin, Qiang Lin.
+<br>
+In Proceeding of IEEE 23rd International Symposium on a World of Wireless, Mobile and Multimedia Networks (<strong style="color:#1e90ff">WoWMoM</strong>), 2022.
+<br>
+<a href="https://ieeexplore.ieee.org/document/9842793" target="_blank">Paper</a>&nbsp; &nbsp; &nbsp;
+<br>
+</li>
+
+<li><strong>Revolving Scanning on Tagged Objects: 3D Structure Detection of Logistics Packages via RFID systems.</strong>
+<br>
+<strong>Jingyi Ning</strong>, Lei Xie, Chuyu Wang, Yanling Bu, Fu Xiao, Baoliu Ye, Sanglu Lu.
+<br>
+ACM Transactions on Sensor Networks (<strong style="color:#1e90ff">TOSN</strong>), 18(2): 1-29 (2022).
+<br>
+<a href="https://dl.acm.org/doi/10.1145/3490171" target="_blank">Paper</a>&nbsp; &nbsp; &nbsp;
+<br>
+</li>
+
+</ol>
+
+
+### 2021
+
+<ol>
+
+<li><strong>Handwriting-Assistant: Capture Handwriting with Millimeter-level Accuracy via Attachable Inertial Sensors.</strong>
+<br>
+Yanling Bu, Lei Xie, Yafeng Yin, Chuyu Wang, <strong>Jingyi Ning</strong>, Jiannong Cao, Sanglu Lu.
+<br>
+In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2021, 5(4): 1-25. (<strong style="color:#1e90ff">UbiComp</strong>), 2021.
+<br>
+<a href="https://dl.acm.org/doi/10.1145/3494956" target="_blank">Paper</a>&nbsp; &nbsp; &nbsp;
+<br>
+</li>
+
+<li><strong>从“识别”到“感知”：基于RFID的可标记无源感知.</strong>
+<br>
+谢磊，王楚豫，卜艳玲，<strong>宁静仪</strong>，陆桑璐.
+<br>
+中国计算机学会通讯 (CCCF). 第 17 卷，第 2 期，2021.
+</li>
+
+</ol>
+
+
+### 2020
+
+<ol>
+
+<li><strong>RFDetector: Internal 3D Structure Detection of Logistics Packages via RFID Systems.</strong>
+<br>
+<strong>Jingyi Ning</strong>, Lei Xie, Chuyu Wang, Yanling Bu, Baoliu Ye, Sanglu Lu.
+<br>
+In Proceeding of International Conference on Computer Communications and Networks, (<strong style="color:#1e90ff">ICCCN</strong>), 2020.
+<br>
+<a href="https://ieeexplore.ieee.org/document/9209644" target="_blank">Paper</a>&nbsp; &nbsp; &nbsp;
+<br>
+</li>
+
+</ol>

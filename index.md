@@ -17,6 +17,8 @@ I am looking for highly self-motivated students. Please drop me an email with yo
 
 ## News
 <div class="container custom-scrollbar" style="height:400px;width:103%;overflow:auto;">
+  <li>[2026-10] One paper is accepted by <a href="" target="_blank">ToN 2027</a>.</li>
+  <li>[2026-08] One paper is accepted by <a href="" target="_blank">SenSys 2027</a>.</li>
   <li>[2026-04] One paper is accepted by <a href="" target="_blank">IMWUT (UbiComp) 2026</a>.</li>
   <li>[2026-02] One paper is accepted by <a href="" target="_blank">IEEE TMC</a>.</li>
   <li>[2025-12] Two papers are accepted by <a href="" target="_blank">IEEE INFOCOM 2026</a>.</li>
